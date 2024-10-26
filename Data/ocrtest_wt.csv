@@ -1,0 +1,806 @@
+C = C C = C . C c 1 c c c ( C ) c c 1 > A_CCCCCCC,C = C C ( C ) C c 1 c c c ( C ) c c 1
+C c 1 c c c ( C ) c ( O ) c 1 C . O >,C C 1 = C C ( = O ) C ( C ) = C ( C ) C 1 = O
+C C C C C C ( = O ) / C = C / Br > A_[Na+] A_CCO,C C C C C C ( O ) / C = C / Br
+C C C C C C ( = O ) / C = C / Br > A_[Na+] A_CCO,C C C C C C ( O ) / C = C / Br
+C # C C ( C C C C C ) O C . I I > A_[Na+] A_[OH-],C C C C C C ( / C = C / I ) O C
+N N . N c 1 n c 2 c ( Cl ) c c c c 2 s 1 > A_O,N N c 1 n c 2 c ( Cl ) c c c c 2 s 1
+C = C ( C ) C # N . C C O . C C O C C >,C C O C ( C C ( C ) C # N ) ( C C ( C ) C # N ) C ( C ) = O
+O C C N ( C C O ) C C O > A_O,O C C N ( C C O ) C C O
+Cl C c 1 c n c c n 1 . O C C O > A_[Na],O C C O C c 1 c n c c n 1
+C C N = C = S . N C C N C c 1 n c c s 1 >,C C N C ( = S ) N C C N C c 1 n c c s 1
+C N = C = O . N C C S C c 1 c n c c n 1 >,C N C ( = O ) N C C S C c 1 c n c c n 1
+C N = C = O . N C C N C c 1 n c c s 1 >,C N C ( = O ) N C C N C c 1 n c c s 1
+C O . C [O-] . N # C C C N . [Na+] >,N # C C ( C N C = O ) C ( = O ) [Na]
+Cl Cl . O = c 1 c c [nH] c ( = O ) [nH] 1 > A_Cl,O = c 1 [nH] c c ( Cl ) c ( = O ) [nH] 1
+O = C N C C C C C C N C = O >,[C-] # [N+] C C C C C C [N+] # [C-]
+C C C C O . C C C C P ( C C C C ) C C C C >,C C C C C ( C C ) C O
+C C ( = O ) N c 1 c c c c c 1 F . Cl Cl >,C C ( = O ) N c 1 c c c ( Cl ) c c 1 F
+C C ( C ) N . O = C 1 C C C C C 1 >,C C ( C ) N = C 1 C C C C C 1
+C C ( = O ) C ( C ) Cl . C C ( S ) C ( C ) S >,C C 1 = C ( C ) S C ( C ) C ( C ) S 1
+C C O . C N C . O = C ( [O-] ) C c 1 c c c c n 1 >,C O C ( C ( = O ) N ( C ) C ) c 1 c c c c n 1
+C C C C = O . N > A_[H][H],C C C C = N C C C C
+C N ( C ) C C C N . O = C O > A_O A_Cc1ccccc1,C N ( C ) C C C N C = O
+C 1 = C C C C C C C 1 . C = C >,C = C C C C C C C C = C
+N # C C = C c 1 c c c s 1 . N O > A_CO,N C ( C = C c 1 c c c s 1 ) = N O
+C C C C C C C C C C 1 C O 1 . N C C C N > A_CO,C C C C C C C C C C ( O ) C N C C C N C C ( O ) C C C C C C C C C
+C C ( C N ) C C N . C C C C C C C C C C 1 C O 1 >,C C C C C C C C C C ( O ) C N C C C ( C ) C N C C ( O ) C C C C C C C C C
+Br C C C C C C Br . C C ( C ) C C O C C C C O >,C C ( C ) C C O C C C C O C C C C C C Br
+Cl . N c 1 c c c c n 1 . [Br-] > A_O A_[K+],N c 1 n c c ( Cl ) c c 1 Br
+C c 1 c c c ( O ) c n 1 . O = [N+] ( [O-] ) O >,C c 1 c c c ( O ) c ( [N+] ( = O ) [O-] ) n 1
+Cl C c 1 c c [nH] n 1 . O C C O > A_[Na],O C C O C c 1 c c [nH] n 1
+C = C C ( = O ) O C . N C c 1 c c c o 1 >,C O C ( = O ) C C N ( C C C ( = O ) O C ) C c 1 c c c o 1
+C C ( C ) ( C ) O C ( = O ) C Cl . C C C C N >,C C C C N C C ( = O ) O C ( C ) ( C ) C
+C C ( = O ) O . C C O . N N c 1 c c c c c 1 >,O c 1 c c c ( - c 2 c c 3 c c c c c 3 [nH] 2 ) c c 1
+C C ( C ) c 1 c c c ( C C C ( = O ) O ) c c 1 >,C C ( C ) c 1 c c c ( C C C ( = O ) C C c 2 c c c ( C ( C ) C ) c c 2 ) c c 1
+Cl C C C I . O = C C c 1 c c c c c 1 >,O = C ( C C C Cl ) C c 1 c c c c c 1
+C c 1 c c c c ( N ) c 1 . O C 1 C C C C C 1 > A_O,C c 1 c c c c ( N C 2 C C C C C 2 ) c 1
+C C C C C C C 1 C O 1 . N > A_O A_CCO,C C C C C C C ( O ) C N
+C = C C = O . C C ( C O ) C O >,C = C C 1 O C C ( C ) C O 1
+C = C C = O . C C ( C O ) C O >,C = C C 1 O C C ( C ) C O 1
+Cl C Cl . O = C ( O ) c 1 c c c c c 1 >,O = C ( Cl ) c 1 c c c c c 1
+C C C C C C 1 ( C ) C O 1 . S > A_CO,C C C C C C ( C ) ( O ) C S
+C [O-] . Cl c 1 c n c c ( Cl ) n 1 > A_[Na+] A_CO,C O c 1 c n c c ( Cl ) n 1
+C C O C ( = O ) c 1 c n c 2 n c n n 2 c 1 O > A_Cl,O = C ( O ) c 1 c n c 2 n c n n 2 c 1 O
+C C ( O ) c 1 c c c o 1 . O > A_C1CCOC1,C c 1 o c c c ( = O ) c 1 O
+C C 1 2 C C C ( C C 1 = O ) C 2 ( C ) C >,C C 1 ( C ) C 2 C C C 1 ( C ) C ( O ) C 2
+C C C C N . C O C C ( Cl ) C = O > A_Cc1ccccc1,C C C C N C ( C = O ) C O C
+O = C c 1 c c c ( O ) c c 1 > A_[Na+] A_[OH-],O c 1 c c c ( C ( O ) C ( O ) c 2 c c c ( O ) c c 2 ) c c 1
+N c 1 c c c n c 1 . O C C ( O ) C O >,c 1 c n c 2 c c c n c 2 c 1
+C C C C N C C C C . S = C ( Cl ) Cl > A_CCOCC,C C C C N ( C C C C ) C ( = S ) Cl
+C = C C = O . C C ( C O ) C O > A_C1CCOC1,C = C C 1 O C C ( C ) C O 1
+C = C C = O . C C ( C O ) C O > A_C1CCOC1 A_[H][H],C = C C 1 O C C ( C ) C O 1
+C n 1 c c c c 1 . N # C C # N > A_Cl,C n 1 c c c c 1 C C # N
+C = C C # N . N C C ( = O ) O > A_[Na],N # C C C N ( C C C # N ) C C ( = O ) O
+C 1 C C C C C C C C C C C 1 . O > A_ClC(Cl)Cl,O C 1 C C C C C C C C C C C 1
+C C ( N ) C N . C C C C C C C C C ( = O ) O >,C C C C C C C C C 1 = N C ( C ) C N 1
+C 1 C C O C 1 . [Li] C C C C > A_CCCCCC,O = C C 1 ( c 2 c c c c c 2 ) C C C C 1
+C C C C O C C ( = O ) c 1 c c c c c 1 >,C C C C O c 1 c c c c c 1 C ( = O ) C = O
+C S C C C ( N C ( C ) = O ) C ( = O ) O > A_O,C S C C [C@H] ( N ) C ( = O ) O
+C N 1 C C C ( O ) ( c 2 c c c c c 2 ) C C 1 > A_Cl,C N 1 C C = C ( c 2 c c c c c 2 ) C C 1
+O C [C@@H] ( O ) C ( O ) [C@H] ( O ) C O >,O C [C@H] ( O ) [C@@H] ( O ) [C@H] ( O ) C O
+C N C . O = C 1 C C C C C 1 > A_CCOCC,C N ( C ) C 1 = C C C C C 1
+Cl . O = C c 1 c c c 2 c ( c 1 ) O C O 2 > A_[Cl-],Cl C c 1 c c c 2 c ( c 1 ) O C O 2
+N . O = C 1 C C N ( C C 2 C C C C C 2 ) C C 1 >,N C 1 C C N ( C C 2 C C C C C 2 ) C C 1
+c 1 c c c ( C 2 C C C C C 2 ) c c 1 >,c 1 c c c ( C 2 C C C C C 2 ) c c 1
+N c 1 c c n c c 1 > A_O A_[Na+],c 1 c c ( N = N c 2 c c n c c 2 ) c c n 1
+O = [N+] ( [O-] ) c 1 c c c c ( Cl ) c 1 O >,N c 1 c c c c ( Cl ) c 1 O
+Br . C C O P ( = O ) ( C C 1 C O 1 ) O C C >,C C O P ( = O ) ( C C ( O ) C Br ) O C C
+C C C ( C ) C ( C ) ( C O ) C O >,C = C C ( C ) C ( C ) ( C O ) C O
+C C ( = O ) C = C C = C ( C ) C C ( C ) C >,C C ( C ) C C ( C ) C C C C ( C ) O
+C C ( = O ) N C 1 C C C c 2 s c c c 2 1 . O >,C C ( = O ) N C 1 C C C ( = O ) c 2 s c c c 2 1
+N N . O = C ( O ) c 1 c c c ( Cl ) c c 1 Cl > A_O,Cl c 1 c c c ( - c 2 n n c ( - c 3 c c c ( Cl ) c c 3 Cl ) o 2 ) c ( Cl ) c 1
+N . O = C ( O ) C n 1 n n n c 1 S > A_C1CCOC1,N C ( = O ) C n 1 n n n c 1 S
+C C = C C C C C C C C C C C ( = O ) O >,C C C C C C C C C C C = C C ( = O ) O
+C c 1 c c c ( Cl ) c c 1 . Cl C ( Cl ) ( Cl ) Cl >,Cl c 1 c c c ( C ( Cl ) ( Cl ) Cl ) c c 1
+C = O . C N C . C c 1 c c n c c 1 O > A_O,C c 1 c c n c ( C N ( C ) C ) c 1 O
+C c 1 c c c ( P ( Cl ) Cl ) c c 1 C > A_[Cl-],C c 1 c c c ( P ( Cl ) c 2 c c c ( C ) c ( C ) c 2 ) c c 1 C
+Br . C C 1 = C C C C ( C ) = C C C 1 >,C C 1 2 C C C C ( C ) ( C C 1 ) C 2 Br
+C O C C N . c 1 c c c ( C 2 C O 2 ) c c 1 >,C O C C N C C ( O ) c 1 c c c c c 1
+C O . N # C c 1 c c n c ( Cl ) c 1 > A_[Na],C O c 1 c c ( C # N ) c c n 1
+C S C C C ( N C ( C ) = O ) C ( = O ) O >,C S C C [C@H] ( N ) C ( = O ) O
+C S C C C ( N C ( C ) = O ) C ( = O ) O > A_O,C S C C [C@H] ( N ) C ( = O ) O
+C = C c 1 c c c c c 1 . c 1 c c c c c 1 >,C ( = C / c 1 c c c c c 1 ) \ c 1 c c c c c 1
+C = C C N . N C = C C = C 1 C C = C O 1 >,C C 1 C = N C ( c 2 c c c o 2 ) C C = C C C C = C C 1
+C C 1 C O 1 . C c 1 c c c c ( N ) c 1 C >,C c 1 c c c c ( N C C ( C ) O ) c 1 C
+C C O C C . C N ( C ) c 1 c c ( C # N ) c c n 1 >,C C ( = O ) c 1 c c n c ( N ( C ) C ) c 1
+Cl c 1 c c c ( - c 2 c c n c c 2 ) n n 1 . N N >,N N c 1 c c c ( - c 2 c c n c c 2 ) n n 1
+C C C C C C # C C C # C / C = C / C O > A_ClCCl,C C C C C C # C C C # C / C = C / C = O
+Cl c 1 c c c 2 s c ( Cl ) n c 2 c 1 >,Cl c 1 c c c 2 s c ( Cl ) n c 2 c 1
+C C C C O C ( C ) Cl . c 1 n c [nH] n 1 > A_CC#N,C C C C O C ( C ) n 1 c n c n 1
+C C C C C C C C C C C C N . O = C 1 C C C O 1 >,C C C C C C C C C C C C N 1 C C C C 1 = O
+N C ( N ) = S . O = C 1 C C C C C 1 Cl > A_O A_Cl,N c 1 n c 2 c ( s 1 ) C C C C 2
+C C # N . C c 1 c c c c ( C ) c 1 N > A_CCOC(C)=O,C c 1 c c c c ( C ) c 1 N C C # N
+C C C C Br . C N ( C ) C C O > A_Cc1ccccc1 A_[Na],C C C C O C C N ( C ) C
+C C C C C c 1 c c c ( O ) c c 1 >,C C C C C C 1 C C C ( O ) C C 1
+O = C 1 O C ( C O ) C ( O ) C ( O ) C 1 O >,O = C 1 O [C@H] ( [C@H] ( O ) C O ) C ( O ) = C 1 O
+C C ( O ) ( O C C Cl ) C 1 C C C C O 1 > A_O,O C C O C C O C C 1 O C C c 2 c c c c c 2 1
+C C N . Cl C C ( C Cl ) O C c 1 c c c c c 1 > A_O,C C N 1 C C ( O C c 2 c c c c c 2 ) C 1
+O = C C Cl . S C c 1 c c n c c 1 >,O = C C S C c 1 c c n c c 1
+C C 1 C C = C ( C ( = O ) O ) C C 1 > A_O,C C 1 = C C C ( C ( = O ) O ) C C 1
+C C ( C ) = C C O . C O C ( C ) ( O C ) O C > A_CO,C = C C ( C ) ( C ) C C ( = O ) O C
+C C ( C ) = C C O . C O C ( C ) ( O C ) O C > A_CO,C = C C ( C ) ( C ) C C ( = O ) O C
+C c 1 n o n c 1 C O . N C C S > A_Cl,C c 1 n o n c 1 C S C C N
+C 1 C N 1 . N c 1 c c c c c 1 >,N C C N c 1 c c c c c 1
+N # C c 1 c c c c c 1 . N N >,c 1 c c c ( C 2 = N N = C ( c 3 c c c c c 3 ) N N 2 ) c c 1
+C = C C N C C N . S = C = S > A_CCO,C = C C N C C N C ( = S ) S
+C C ( C ) = O . O = c 1 n c c ( Br ) c [nH] 1 >,C = C C n 1 c c ( Br ) c n c 1 = O
+C C O C ( = O ) C C ( N ) = S > A_CCOCC,C C O C ( = O ) C c 1 n c ( C ( = O ) O ) c s 1
+C ( C C C 1 C O 1 ) C C 1 C O 1 . [OH-] > A_[K+],C C C C C C C 1 2 O C 1 O 2
+C C ( C ) ( C O ) C O . C C O C ( = O ) O C C >,C C 1 ( C ) C O C ( = O ) O C 1
+C C ( C ) ( C ) C 1 C C C C ( N ) C 1 > A_[Pd],C C ( C ) ( C ) c 1 c c c c ( N ) c 1
+Cl Cl . S c 1 n c 2 c c c ( Cl ) c c 2 o 1 > A_[K],Cl c 1 c c c 2 n c ( Cl ) o c 2 c 1
+C O . Cl C c 1 c c c o 1 . [OH-] > A_O A_[Na+],O = C ( O ) C c 1 c c c o 1
+N # C c 1 c c ( C C C Cl ) c c n 1 > A_C1CCOC1,N C c 1 c c ( C C C Cl ) c c n 1
+C O c 1 c c c ( C = O ) c ( O C ) c 1 Cl > A_ClCCl,C O c 1 c c c ( C = O ) c ( O ) c 1 Cl
+N c 1 c c c c c 1 . O C C O >,c 1 c c c 2 [nH] c c c 2 c 1
+C 1 C O C C N 1 . O = C 1 N O C C ( = S ) N 1 >,O = C 1 N = C ( N 2 C C O C C 2 ) C O N 1
+C N C . S = C = S >,C N ( C ) C ( = S ) S S C ( = S ) N ( C ) C
+C N C . S = C = S > A_CC(C)O,C N ( C ) C ( = S ) S S C ( = S ) N ( C ) C
+C = O . O c 1 c c c c c 1 >,O = C c 1 c c c c c 1 O
+C C ( C ) N . C O c 1 c c c ( C C C C Br ) c c 1 >,C O c 1 c c c ( C C C C N C ( C ) C ) c c 1
+C c 1 c c c c 2 c c c c c 1 2 > A_O=S(=O)(O)O,C c 1 c c c ( - c 2 c c c ( C ) c 3 c c c c c 2 3 ) c 2 c c c c c 1 2
+N N C ( = O ) C 1 C C 1 . S = C = S > A_CN(C)C=O,S c 1 n n c ( C 2 C C 2 ) o 1
+N C C N . O c 1 c c c c c 1 > A_O A_Cc1ccccc1,c 1 c c c 2 c ( c 1 ) C C N O 2
+N C C N . O c 1 c c c c c 1 > A_ClCCl,C 1 = C c 2 c c c c c 2 O N 1
+N C C N . O c 1 c c c c c 1 > A_ClCCl,c 1 c c c 2 c ( c 1 ) C C N O 2
+C 1 = C c 2 c c c c c 2 C N 1 > A_N A_CC(C)(C)O,C 1 = C C C 2 C C N C C 2 = C 1
+C O . C O c 1 c c ( C # N ) c c c 1 O . Cl >,C O N = C c 1 c c c ( Cl ) c ( O C ) c 1
+O C 1 C C C 2 C C C C 1 2 > A_ClCCl,O = C 1 C C C 2 C C C C 1 2
+Br c 1 c c c n c 1 . N C C O > A_O,O C C N c 1 c c c n c 1
+C C ( = O ) O . O c 1 c c c c c 1 >,C C ( = O ) c 1 c c c ( O ) c c 1
+N C 1 C C C C C 1 . O = C N ( C C O ) C C O >,O = C N C 1 C C C C C 1
+C C C C C C 1 ( C ) C O 1 . S > A_C1CCOC1 A_CCOCC,C C C C C C ( C ) ( O ) C S
+O C C 1 C O c 2 c c c c c 2 O 1 >,C ( O C C 1 C O 1 ) C 1 C O 1
+C = C c 1 c c c c c 1 . C [SiH] ( Cl ) Cl >,Cl [SiH] ( Cl ) C C C c 1 c c c c c 1
+Cl C C 1 C O 1 . N C c 1 c c c c c 1 >,O C ( C Cl ) C N C c 1 c c c c c 1
+Cl C C 1 C O 1 . N C c 1 c c c c c 1 > A_C1CCCCC1,O C ( C Cl ) C N C c 1 c c c c c 1
+O = C ( O ) C = C c 1 c c c c c 1 > A_O A_CC(=O)O,O = C ( O ) C # C c 1 c c c c c 1
+C = C C ( = O ) O C C . I c 1 c c c c c 1 > A_[Pd],C C O C ( = O ) C = C c 1 c c c c c 1
+Br . C = O . C C C C C C C C O > A_ClC(Cl)Cl,C C C C C C C C O C Br
+Br . O = c 1 [nH] c 2 c c c c c 2 c c 1 C O >,O = c 1 [nH] c 2 c c c c c 2 c c 1 C Br
+C C ( = O ) Br . O c 1 c c c n c 1 O > A_O,C C ( = O ) n 1 c c c c ( O ) c 1 = O
+C O . N # C c 1 n c ( C Cl ) c n c 1 N >,C O C c 1 c n c ( N ) c ( C # N ) n 1
+Cl C Br . C n 1 c c n c 1 S > A_CCN(CC)CC,C n 1 c c n c 1 S C Cl
+O N = C c 1 c c ( F ) c c c 1 O > A_CC(=O)OC(C)=O,N # C c 1 c c ( F ) c c c 1 O
+Br Br . C C ( C ( = O ) O ) C ( = O ) O >,C C ( Br ) ( C ( = O ) O ) C ( = O ) O
+C 1 C N C C N 1 . C c 1 c c c n c 1 Cl >,C c 1 c c c n c 1 N 1 C C N C C 1
+C N = C = S . N N c 1 c c c c c 1 > A_c1ccccc1,C N C ( = S ) N N c 1 c c c c c 1
+Br c 1 c c n c 2 c c n c c 1 2 . C N C >,C N ( C ) c 1 c c n c 2 c c n c c 1 2
+C C C C C C N . N # C C O > A_CO,C C C C C C N C C # N
+C c 1 c c c ( C C O ) c c 1 . O = C ( O ) C Cl >,C c 1 c c c ( C C O C C ( = O ) O ) c c 1
+C C 1 ( C ) C O C ( = O ) C 1 = O > A_Cc1ccccc1,C C 1 ( C ) C O C ( = O ) [C@@H] 1 O
+C C ( = O ) c 1 c c c ( C ( = O ) O ) c c 1 . N >,C C ( N ) c 1 c c c ( C ( = O ) O ) c c 1
+C C ( C ) = C ( C ) C . C [SiH] ( C ) Cl > A_[Cl-],C C ( C ) C ( C ) ( C ) [Si] ( C ) ( C ) Cl
+O = C ( O ) C C ( F ) ( F ) C ( = O ) O >,O = C 1 C C ( F ) ( F ) C ( = O ) O 1
+C # C C Br . C C O C ( O C C ) O C C >,C C O C ( C # C C Br ) O C C
+C C = O . N C C ( = O ) N C C ( N ) = O > A_CO,C C 1 N C C ( = O ) N 1 C C ( N ) = O
+C # C C O . C C ( C ) ( C ) C N = C = O >,C # C C O C ( = O ) N C C ( C ) ( C ) C
+C C ( = O ) Cl . c 1 c c c c c 1 >,C C ( = O ) c 1 c c c c c 1
+C C 1 ( C ) N c 2 c c c c c 2 S 1 > A_[Na+],C C ( C ) N c 1 c c c c c 1 S
+C O C ( = O ) C C C C C = O > A_O A_CO,O = C C C C C C ( = O ) O
+C O . C O [SiH] ( O C ) O C >,C O [Si] ( O C ) ( O C ) O C
+N C C N . O = C c 1 c n c n c 1 > A_c1ccccc1,N C C N C c 1 c n c n c 1
+C N 1 C C C ( O ) ( C N ) C C 1 . N C = O >,C N 1 C C C ( O ) ( C N C = O ) C C 1
+C # C C N . O = S ( = O ) ( Cl ) c 1 c c c c c 1 >,C # C C N S ( = O ) ( = O ) c 1 c c c c c 1
+N # C C C N ( C C # N ) C C C O > A_N,O C C C N 1 C C C N C C 1
+C C C ( O ) c 1 c c c c c 1 . Cl > A_O,C C C ( Cl ) c 1 c c c c c 1
+C C C C C Br . C O C C C N > A_CC(C)O,C C C C C N C C C O C
+N N . O = C 1 O C ( O ) c 2 c c ( Br ) c c c 2 1 >,O = c 1 [nH] n c c 2 c c ( Br ) c c c 1 2
+C C C ( C ) N C ( C ) C C . O = C ( Cl ) Cl >,C C C ( C ) N ( C ( = O ) Cl ) C ( C ) C C
+c 1 c c c ( - c 2 n n n [nH] 2 ) c c 1 > A_[Na],c 1 c c c ( - c 2 n n n [nH] 2 ) c c 1
+C C ( = O ) C 1 = C C N ( C ) C C 1 > A_ClCCl,C C ( = O ) C 1 = C C N C C 1
+Br Br . O c 1 c ( F ) c c c c 1 F > A_[Na+],O c 1 c ( F ) c c ( Br ) c c 1 F
+C N = C ( N C # N ) S C . N C C N > A_CC#N,C N C ( = N C # N ) N C C N
+C = C C ( = O ) O C C . I c 1 c c c c c 1 >,C C O C ( = O ) C = C c 1 c c c c c 1
+O = C ( C C C C C Br ) N c 1 c c c c c 1 O >,O c 1 c c c c c 1 N C C C C C C Br
+Br C 1 C C C C C 1 . C C ( N ) = O >,C C ( = O ) N C 1 C C C C C 1
+C C ( O ) C ( = O ) O . N C C O C C O > A_O,C C ( O ) C ( = O ) N C C O C C O
+C 1 C C S C 1 . C C O . Cl . N O > A_O=C([O-])[O-],O N = C 1 C S C ( c 2 c c c ( Cl ) c c 2 ) C 1
+C = C C N C ( = S ) N C C = C > A_CCN(CC)CC A_CC#N,C = C C N = C = N C C = C
+C O . O = C ( O ) C c 1 c c s c 1 >,C O C ( = O ) C c 1 c c s c 1
+N c 1 c c c c c 1 C O C C ( = O ) O > A_CO,O = C 1 C O C c 2 c c c c c 2 N 1
+C N = C = O . N c 1 n n n [nH] 1 > A_O A_CN(C)C=O,C N C ( = O ) N c 1 n n n [nH] 1
+C # C C C C C = O . S C C C S > A_ClCCl,C # C C C C C 1 S C C C S 1
+C C 1 ( C ) C O C ( = O ) C 1 = O > A_c1ccccc1,C C 1 ( C ) C O C ( = O ) [C@@H] 1 O
+C O c 1 c c 2 c c c c c 2 c c 1 O C >,C O C 1 C C 2 C C C = C C 2 = C C 1 = O
+C 1 C O C C N 1 . O c 1 c c c c c 1 O > A_CO,O = C 1 C = C ( N 2 C C O C C 2 ) C ( N 2 C C O C C 2 ) = C C 1 = O
+Br C c 1 c c c c c 1 . C C N C C > A_CCOCC,C C N ( C C ) C c 1 c c c c c 1
+Br C c 1 c c c c c 1 . C 1 C C N C 1 > A_CCOCC,c 1 c c c ( C N 2 C C C C 2 ) c c 1
+Br C c 1 c c c c c 1 . C C C N C C C > A_CCOCC,C C C N ( C C C ) C c 1 c c c c c 1
+O = C c 1 c c c ( O ) c c 1 > A_CC(C)=O,C C ( = O ) C = C c 1 c c c ( O ) c c 1
+C C ( = O ) C ( C ) O . N # C N = C ( N ) N > A_Cl,C c 1 n c ( N C ( = N ) N ) o c 1 C
+C O C C O . Cl C C 1 C O 1 > A_CCOCC A_O=S(=O)(O)O,C O C C O C C ( O ) C Cl
+C # C C O . C C ( C ) = C C Br > A_C1CCOC1,C # C C O C C = C ( C ) C
+C = C C C C C C C C C C C > A_[K+] A_CCO A_[OH-],C # C C C C C C C C C C C
+C = C C C C = C . C C ( C ) ( C ) S >,C C ( C ) ( C ) S C C C C C C S C ( C ) ( C ) C
+C C C C C C C C ( = O ) Cl . O C C O > A_c1ccncc1,C C C C C C C C ( = O ) O C C O
+C C C C C C C C C C C C C C O > A_ClCCl,C C C C C C C C C C C C C C = O
+C C ( C ) C ( = O ) C C # N . C N N > A_CC(=O)O,C C ( C ) c 1 c c ( N ) n ( C ) n 1
+C O [Si] ( C ) ( O C ) c 1 c c c c c 1 > A_[H][H],C O [Si] ( C ) ( O C ) C 1 C C C C C 1
+C C ( = O ) C ( C ) ( C ) Br . c 1 c n [nH] c 1 >,C C ( = O ) C ( C ) ( C ) n 1 c c c n 1
+O C c 1 c c c c 2 c c c n c 1 2 > A_CO,O C c 1 c c c c 2 c 1 N C C C 2
+C # C C C C ( = O ) O . I c 1 c s c ( I ) c 1 >,O = C ( O ) C C C # C c 1 c c c ( I ) s 1
+C C C N C C C . C N C ( = O ) N C >,C C C N ( C C C ) C ( = O ) N C
+C C c 1 c c c ( N ) c n 1 . Cl > A_O A_[Na],C C c 1 c c c ( N ) c ( Cl ) n 1
+C C ( = O ) O . O c 1 c c c c c 1 >,C C ( = O ) c 1 c c c ( O ) c c 1
+C = C ( C ) O C ( C ) = O . C C C C C C >,C [C@H] ( O ) c 1 c c c c c 1
+C O C C = O . O C C C O > A_O A_C1CCCCC1,C O C C 1 O C C C O 1
+C O c 1 n c ( C ) n c ( Cl ) c 1 Cl . N N > A_O,C O c 1 n c ( C ) n c ( N N ) c 1 Cl
+N C C C P ( O ) O . O = C 1 C C C 1 > A_O A_Cl,N C C C P ( = O ) ( O ) C 1 ( O ) C C C 1
+C C C = O . c 1 c n c c n 1 >,C C C ( = O ) c 1 c n c ( C ( = O ) C C ) c n 1
+C C ( = O ) O C ( C ) = O . C c 1 c c c c c 1 N >,C C ( = O ) N c 1 c c c c c 1 C
+C N ( C ) C = O . c 1 c c c 2 o c c c 2 c 1 >,O = C c 1 c c 2 c c c c c 2 o 1
+C = C ( C ) C ( = O ) O C . C c 1 c c c c c 1 >,C = C C ( = O ) O C C C C
+N c 1 c c c c c 1 . O C ( C Br ) C C Br >,O C 1 C C N ( c 2 c c c c c 2 ) C 1
+C O C ( = O ) C C N C ( C ) = O . N C C O >,C C ( = O ) N C C C ( = O ) N C C O
+C N C . O = C ( Cl ) C C C C Cl > A_C1CCOC1,C N ( C ) C ( = O ) C C C C Cl
+C C C C C C C C C C C C C O >,C C C C C C C C C C C C O
+c 1 c c c 2 c ( c 1 ) C C C C 2 > A_[H][H],c 1 c c c 2 c c c c c 2 c 1
+C C 1 C C ( = O ) C C ( = O ) C 1 . N > A_c1ccccc1,C C 1 C C ( = O ) C = C ( N ) C 1
+C C ( C ) ( C ) C = O . N C C 1 C C N C 1 > A_CO,C C ( C ) ( C ) C = N C C 1 C C N C 1
+C 1 C C O C 1 . C C C C C C > A_[Li]CCCC,C # C O C c 1 c c c c c 1
+O C C C C c 1 c c c ( Cl ) c c 1 > A_ClCCl,O = C C C C c 1 c c c ( Cl ) c c 1
+C C C C C C C C C C S C C N > A_[Na+] A_Cl A_[OH-],C C C C C C C C C C S C C N
+N # C c 1 c c c ( C ( F ) ( F ) F ) c c 1 > A_CO,C c 1 c c c ( C ( F ) ( F ) F ) c c 1
+C C ( C ) ( C ) C 1 C C C ( C O ) C C 1 > A_ClCCl,C C ( C ) ( C ) C 1 C C C ( C = O ) C C 1
+C C C C C C C C C C C C C C C C C C ( = O ) O C >,C C C C C C C C / C = C \ C C C C C C C C ( = O ) O
+C C C C C C = O . N O > A_CO A_Cl,C C C C C C N ( O ) C C C C C C
+C C C C C C = O . N O > A_Cl,C C C C C C N ( O ) C C C C C C
+C c 1 c c c c c 1 . c 1 c c n c c 1 >,C C C C C C C C C C C C C C C C C C N
+C = C C N = C = O . N # C c 1 c c c c c 1 N >,C = C C N C ( = O ) N c 1 c c c c c 1 C # N
+C C O C ( = O ) O C C . C C O C C O C C O >,C C O C C O C C O C C
+C C = C C C Br . N C c 1 c c c c c 1 >,C C = C C C N C c 1 c c c c c 1
+C C ( = O ) C ( C ) C . N c 1 c c c ( Cl ) c c 1 >,C C 1 = N c 2 c c c ( Cl ) c c 2 C 1 ( C ) C
+C N = C = O . O N C c 1 c c c ( Br ) s 1 >,C N C ( = O ) N ( O ) C c 1 c c c ( Br ) s 1
+C C ( = O ) N 1 C C C ( = O ) C C 1 . C N > A_CCO,C N C 1 C C N ( C ( C ) = O ) C C 1
+C C ( C ) ( N ) C N C C N . O = C 1 C C N C C 1 >,C C ( C ) ( N ) C N C C N C 1 C C N C C 1
+N S ( = O ) ( = O ) Cl . O C c 1 c c c c c 1 >,N S ( = O ) ( = O ) O C c 1 c c c c c 1
+Br Br . O c 1 c ( F ) c c c c 1 F > A_O A_[Na+],O c 1 c ( F ) c c ( Br ) c c 1 F
+C C n 1 c n c ( S ( = O ) ( = O ) Cl ) c 1 . O >,C C n 1 c n c ( S ( = O ) ( = O ) O ) c 1
+C C C C ( = O ) O . c 1 c c c 2 c c c c c 2 c 1 >,C C C C ( = O ) c 1 c c c c 2 c c c c c 1 2
+C c 1 c c c c ( C ) c 1 F . O = [N+] ( [O-] ) O >,C c 1 c c ( [N+] ( = O ) [O-] ) c c ( C ) c 1 F
+F c 1 c c c c ( C ( Cl ) ( Cl ) Cl ) c 1 . N >,N # C c 1 c c c c ( F ) c 1
+C C 1 2 C C C ( C C 1 = O ) C 2 ( C ) C > A_CCOCC,C C 1 2 C = C C ( C C 1 ) C 2 ( C ) C
+C O C ( = O ) C O . N C c 1 c c c c c 1 >,O = C ( C O ) N C c 1 c c c c c 1
+C C C C N . N # C c 1 c c c n c 1 Cl > A_CC(C)O,C C C C N c 1 n c c c c 1 C # N
+C C O . N C C N C C O . S = C = S > A_O A_Cl,O C C N 1 C = N C ( = S ) C 1
+C # C C C C C O . O = C c 1 c c c c c 1 Br >,O = C c 1 c c c c c 1 C # C C C C C O
+C N . O C C C C C C C C C Cl > A_O A_[Na+] A_[OH-],C N C C C C C C C C C O
+C C ( = O ) O C 1 C C O C ( = O ) C C 1 . N >,O = C 1 C C C ( C C O ) N 1
+C O C 1 C C O C ( = O ) C C 1 . N >,O = C 1 C C C ( C C O ) N 1
+N # C C 1 = C C O c 2 c c c ( F ) c c 2 1 > A_CO,N # C C 1 C C O c 2 c c c ( F ) c c 2 1
+O = C ( Cl ) c 1 c c c c c 1 > A_c1ccccc1,O = C ( c 1 c c c c c 1 ) c 1 c c c c c 1
+C C C C C C C C N . O = C = O > A_CC#N A_CCOCC,C C C C C C C C N = C = O
+C C C C C C C C N . O = C = O > A_CC#N A_CCOCC,C C C C C C C C N = C = O
+C C C C C C C C N . O = C = O > A_CCN(CC)CC A_CC#N,C C C C C C C C N = C = O
+C C O C ( = O ) [C@@H] 1 C C C N 1 C C . N > A_CO,C C N 1 C C C [C@H] 1 C ( N ) = O
+C n 1 c c c c 1 . O = C ( Cl ) C Cl > A_C1CCOC1,C n 1 c c c c 1 C ( = O ) C Cl
+C C C C C ( = O ) N c 1 c s c c 1 N >,C C C C c 1 n c 2 c s c c 2 [nH] 1
+C O c 1 c c c ( F ) c c 1 O C > A_ClCCl A_CCO,O c 1 c c c ( F ) c c 1 O
+C = C C # N . C C ( = O ) C ( C ) C > A_Cl,C C ( = O ) C ( C ) ( C ) C C C # N
+C C O C ( = O ) C ( Br ) N C ( C ) = O . N O >,C C O C ( = O ) C ( N O ) N C ( C ) = O
+C O C ( = O ) C 1 C C N C C 1 . O = C O > A_O,C O C ( = O ) C 1 C C N ( C ) C C 1
+C = C ( C ) C ( O C C ) O C C > A_CCOCC A_N A_[K],C C O C ( O C C ) = C ( C ) C
+C O . O = C ( O ) c 1 c c c c c 1 > A_O=S(=O)(O)O,C O C ( = O ) c 1 c c c c c 1
+C = C C O . C O C ( C Br ) O C >,C = C C O C C ( O C ) O C
+C = O . O c 1 c c c c c 1 >,O c 1 c c c c c 1 C c 1 c c c c c 1 O
+C = O . O c 1 c c c c c 1 > A_O,O c 1 c c c c c 1 C c 1 c c c c c 1 O
+C = O . O c 1 c c c c c 1 > A_O,O c 1 c c c c c 1 C c 1 c c c c c 1 O
+C O C C 1 = C C N ( C ) C C 1 > A_CCOC(C)=O,C O C C 1 = C C N ( C ) C C 1
+C O C C ( C ) = O . N N c 1 c c c c n 1 > A_CCO,C O c 1 c ( C ) [nH] c 2 n c c c c 1 2
+C c 1 c c ( O ) c c ( = O ) o 1 . O = [Se] = O >,O = C c 1 c c ( O ) c c ( = O ) o 1
+C C ( C ) c 1 n c ( C Cl ) c s 1 . C N > A_O A_Cl,C N C c 1 c s c ( C ( C ) C ) n 1
+C C 1 2 C C C ( C C 1 O ) C 2 > A_[H-] A_[Li+],C [C@@] 1 2 C C C ( C C 1 O ) C 2
+c 1 c c c ( C 2 C O 2 ) c c 1 > A_[Li+],O C C c 1 c c c c c 1
+O = C ( O ) c 1 c c n c c 1 Br . O = S ( Cl ) Cl >,O = C ( Cl ) c 1 c c n c c 1 Br
+C C C C C C C ( C ) N C ( C ) = O > A_C1CCOC1,C C C C C C C ( C ) N C C
+N # C c 1 c c c n c 1 . O O > A_CC(=O)O,N # C c 1 c c c [n+] ( [O-] ) c 1
+C # C c 1 c n c c ( C # N ) c 1 > A_C1CCOC1 A_[Pd],C C c 1 c n c c ( C # N ) c 1
+C C C O . C C c 1 c n c c ( C # N ) c 1 > A_Cl,C C C O C ( = N ) c 1 c n c c ( C C ) c 1
+C C C O . N # C c 1 c c c ( N ) n c 1 > A_Cl,C C C O C ( = N ) c 1 c c c ( N ) n c 1
+C = C C ( = O ) O C C C C . C O . C O C C O C >,C C C C O C ( = O ) C C ( O C ) O C
+c 1 c c c ( C 2 C O 2 ) c c 1 >,C C ( O ) c 1 c c c c c 1
+c 1 c c c ( C 2 C O 2 ) c c 1 >,C C ( O ) c 1 c c c c c 1
+O = C ( Cl ) c 1 c c c c c 1 . c 1 c c n c c 1 >,C 1 = C N c 2 c c c c c 2 C = C 1
+O = C ( O ) C = C c 1 c c c c c 1 >,C C C C C C / C ( C = O ) = C \ c 1 c c c c c 1
+O = C c 1 c c c c c 1 C = O > A_CO A_Cl,O = C c 1 c c c c c 1 C = O
+C 1 = C O C C C 1 . O C C C C C C C Br >,Br C C C C C C C O C 1 C C C C O 1
+N C C c 1 c c ( O ) c ( O ) c c 1 O >,N C C c 1 c c c ( O ) c ( O ) c 1
+Br c 1 c c o c 1 . C # C C O >,O C C # C c 1 c c o c 1
+C O C ( = O ) Cl . C c 1 c c ( Br ) c s 1 >,C O C ( = O ) c 1 c s c ( C ) c 1
+Br Br . Cl c 1 c c c 2 s c c c 2 c 1 > A_CC(=O)O,Cl c 1 c c c 2 s c c ( Br ) c 2 c 1
+C C O C ( = O ) c 1 n c c c ( C # N ) c 1 N . N >,N # C c 1 c c n c ( C ( N ) = O ) c 1 N
+C C C C C C C C C C C C C C C C C C O . O >,C [C@@H] ( O ) c 1 c c c c c 1
+C C C C C C C C C C C C C C C C C C O . O >,C C [C@@H] ( O ) c 1 c c c c c 1
+C C O . O = C c 1 c c c ( F ) c c 1 > A_O A_[K+],O = C ( c 1 c c c ( F ) c c 1 ) C ( O ) c 1 c c c ( F ) c c 1
+C C ( C ) = C C O . C C ( C ) C C O N = O . Cl >,C C ( C ) ( Cl ) C ( C O ) = N O
+O C c 1 n c 2 c c c c c 2 [nH] 1 > A_CCO,O = C c 1 n c 2 c c c c c 2 [nH] 1
+C C 1 = C C C 2 ( C ( C ) C ) C C 1 2 . [O-] O >,C C ( C ) C 1 2 C C C ( C ) ( O ) C 1 C 2
+C 1 C N C C N C 1 . O C C I > A_C1CCOC1,O C C N 1 C C C N C C 1
+C = O . C O C C O > A_O A_Cc1ccc(S(=O)(=O)O)cc1,C O C C O C O C C O C
+C S S C . C c 1 c c ( Cl ) c c c 1 N > A_ClC(Cl)Cl,C S c 1 c c c ( Cl ) c c 1 C
+C C O . O = C ( Cl ) c 1 c c c ( F ) c c 1 >,C C O C ( = O ) c 1 c c c ( F ) c c 1
+C C C C N = C = O . S c 1 n c c [nH] 1 >,C C C C N C ( = O ) n 1 c c [nH] c 1 = S
+C O C C O C ( = O ) [C@@H] ( N ) C S > A_Cl,N [C@@H] ( C S ) C ( = O ) O C C O
+N C C c 1 c c c c c 1 . O = C ( Cl ) C 1 C C 1 >,c 1 c c c 2 c ( c 1 ) C C N C 2 C 1 C C 1
+C S . O = C 1 C C C C C 1 Cl > A_O A_CCO A_[Na],C S C 1 ( Cl ) C C C C C 1 = O
+C O C ( = O ) C C C C C C C C C ( = O ) O C . O >,C [C@H] ( O ) c 1 c c c c c 1
+C C ( C ) ( C ) c 1 c c n c c 1 > A_CCO,C c 1 c c c c 2 c c c n c 1 2
+C O . O = C ( O ) c 1 c c c c c 1 > A_O,C O C ( = O ) c 1 c c c c c 1
+N c 1 c c c ( Br ) c c 1 . O = S ( = O ) ( O ) O >,N c 1 c c c ( Br ) c c 1 S ( = O ) ( = O ) O
+c 1 c c [cH-] c 1 > A_C1CCOC1 A_[Na+],C C C = C C 1 = C C C = C 1
+O = C c 1 c c c n c 1 Br > A_[Na+] A_CO,O C c 1 c c c n c 1 Br
+C O C ( = O ) C C C C C = O > A_O,O = C C C C C C ( = O ) O
+C 1 C C O C 1 . C = C / C = C / C N >,O C C 1 C C = C C 2 C N C C 2 1
+N c 1 c c c c 2 n c 3 c c c c c 3 c c 1 2 > A_Cl,c 1 c c c 2 n c 3 c c c c c 3 c c 2 c 1
+C [C@H] ( N ) C ( = O ) O . N C C ( = O ) O >,N [C@@H] ( C C C ( = O ) O ) C ( = O ) O
+C O c 1 c c c 2 n c ( C ) s c 2 c 1 > A_CC(=O)O,C c 1 n c 2 c c c ( O ) c c 2 s 1
+C C [N+] ( = O ) [O-] . O = C c 1 c c c c c 1 >,C C ( C ( O ) c 1 c c c c c 1 ) [N+] ( = O ) [O-]
+C O C C O C Cl . O = C ( O ) C S >,C O C C O C S C C ( = O ) O
+C N C ( C ) O . O = C ( O ) C ( F ) ( F ) F >,C C ( O ) N ( C ) C ( = O ) C ( F ) ( F ) F
+N . O = C 1 C C C ( c 2 c c c ( Cl ) n c 2 ) O 1 >,N C ( = O ) C C C ( O ) c 1 c c c ( Cl ) n c 1
+N C c 1 c c c c c 1 . O = S ( = O ) ( O ) O >,N C c 1 c c c ( S ( = O ) ( = O ) O ) c c 1
+C N O C . O = C ( Cl ) C C C Cl > A_Cl A_CCN(CC)CC,C O N ( C ) C ( = O ) C C C Cl
+O = C C [C@H] ( O ) [C@H] ( O ) C O > A_O A_[H][H],O C C [C@H] ( O ) [C@H] ( O ) C O
+C = C C O c 1 c c c c ( C = O ) c 1 > A_[Na+] A_CO,C = C C O c 1 c c c c ( C O ) c 1
+O = C ( O ) C C ( C S ) C ( = O ) O > A_O,O = C 1 C C ( C ( = O ) O ) C S 1
+O = C ( O ) c 1 c c c ( Cl ) c c 1 Cl >,O = C ( O ) c 1 c c c c c 1 Cl
+C C ( C ) = O . O = c 1 c c o c c 1 O > A_O,O = c 1 c c o c c 1 O C c 1 c c c c c 1
+Br . C O C ( = O ) c 1 s c c c 1 N > A_O A_[Na+],C O C ( = O ) c 1 s c c c 1 Br
+C N ( C ) C = O . C c 1 c c c ( C ) s 1 > A_O,C c 1 c c ( C = O ) c ( C ) s 1
+C O . C c 1 c c ( C ( = O ) O ) c c c 1 N > A_Cl,C O C ( = O ) c 1 c c c ( N ) c ( C ) c 1
+C C C ( = O ) Cl . C C N c 1 c c c c ( C ) c 1 >,C C C ( = O ) N ( C C ) c 1 c c c c ( C ) c 1
+N # C C O . N c 1 c c c n c 1 > A_O,N C C N c 1 c c c n c 1
+Br . O C C c 1 c c c c c 1 F > A_O=S(=O)(O)O,F c 1 c c c c c 1 C C Br
+Br C C 1 C C C C C 1 . O C c 1 c c c ( O ) c c 1 >,O C c 1 c c c ( O C C 2 C C C C C 2 ) c c 1
+C # C C O . C O C ( = O ) c 1 c c c c c 1 I >,C O C ( = O ) c 1 c c c c c 1 C # C C O
+C O . O C c 1 c [nH] c 2 c c c c c 1 2 > A_O,C O C c 1 c [nH] c 2 c c c c c 1 2
+O = C ( Cl ) c 1 c c c c c 1 . c 1 c c n c c 1 >,O = C ( c 1 c c c c c 1 ) N 1 C C = C C C 1
+C O c 1 c c c c 2 c 1 O C C C 2 > A_CC(=O)O,O c 1 c c c c 2 c 1 O C C C 2
+O = C ( Cl ) c 1 c c c c c 1 > A_c1ccccc1,O = C ( c 1 c c c c c 1 ) c 1 c c c c c 1
+O = C ( O ) C C ( = O ) O . c 1 c c n c c 1 >,C = C c 1 c c c c 2 c c c c c 1 2
+C O . C c 1 c c ( C ( = O ) O ) c c c 1 N >,C O C ( = O ) c 1 c c c ( N ) c ( C ) c 1
+O = C ( Cl ) c 1 c c c c c 1 >,O = C ( Cl ) C 1 C C C C C 1
+C # C C N . C C O C ( = O ) C ( F ) ( F ) F > A_CO,C # C C N C ( = O ) C ( F ) ( F ) F
+C C ( C ) O c 1 c c c ( / C = C / C O ) c c 1 >,C C ( C ) O c 1 c c c ( C = C C = O ) c c 1
+C O C = O . C S C C C ( N ) C ( N ) = O >,C S C C C ( N C = O ) C ( N ) = O
+C C C c 1 c c c ( O ) c ( O ) c 1 >,C C C c 1 c c c 2 c ( c 1 ) O C C ( = O ) C O 2
+C C ( N C C Br ) c 1 c c c c c 1 > A_[Cl-],C C 1 N C C c 2 c c c c c 2 1
+C C ( N C C Br ) c 1 c c c c c 1 > A_Cl A_[Cl-],C C 1 N C C c 2 c c c c c 2 1
+C [C@H] ( N C C Br ) c 1 c c c c c 1 > A_[Cl-],C [C@@H] 1 N C C c 2 c c c c c 2 1
+O = C c 1 c c c ( Cl ) c c 1 > A_Cc1ccccc1C,O = C c 1 c c c ( O C c 2 c c c ( Cl ) c c 2 ) c c 1
+C = C ( C ) C 1 C C = C ( C = O ) C C 1 >,C = C ( C ) [C@@H] 1 C C = C ( C O ) C C 1
+N N c 1 c c c c ( Cl ) c 1 . N N c 1 c c c c c 1 >,C c 1 c c n ( - c 2 c c c c ( Cl ) c 2 ) n 1
+N C C N C c 1 c c c c c 1 O > A_CC(C)O,O c 1 c c c c c 1 C = N C C N C c 1 c c c c c 1 O
+C O C ( C C C ( C O ) C O ) O C > A_C1CCOC1 A_Cl,C O C 1 C C C ( C O ) C O 1
+O C c 1 c c ( I ) c c c 1 O > A_CC(C)=O,O = C c 1 c c ( I ) c c c 1 O
+C O c 1 c c ( Cl ) c c ( O C ) c 1 > A_ClCCl,O c 1 c c ( O ) c c ( Cl ) c 1
+C N N . O = C c 1 c c c ( Cl ) c c 1 > A_CCO,C N N = C c 1 c c c ( Cl ) c c 1
+C N N . O = C c 1 c c c ( Cl ) c c 1 F > A_CCO,C N N = C c 1 c c c ( Cl ) c c 1 F
+C = O . O c 1 c c c c c 1 >,O = C c 1 c c c c c 1 O
+N # C c 1 c c c c c 1 F . N C C O >,N # C c 1 c c c c c 1 N C C O
+C C C C N . N # C c 1 c c c c c 1 F >,C C C C N c 1 c c c c c 1 C # N
+N # C c 1 c c c c c 1 F . N C C O C C O >,N # C c 1 c c c c c 1 N C C O C C O
+C / C = C \ C . C C C C N > A_Cc1ccccc1,C C C C N 1 C C = C C 1
+I . c 1 c c c ( C 2 C O 2 ) c c 1 > A_O A_CCO,O C C ( I ) c 1 c c c c c 1
+I . c 1 c c c ( C 2 C O 2 ) c c 1 > A_CCOCC,O C C ( I ) c 1 c c c c c 1
+C C c 1 c c c ( Cl ) c ( N ) c 1 . N # C Br > A_O,C C c 1 c c c ( Cl ) c ( N C # N ) c 1
+C N O C . O = C ( Cl ) C C C Cl > A_Cl,C O N ( C ) C ( = O ) C C C Cl
+C C C C C C C C C C C C N . C C O > A_O,C C C C C C C C C C C C C C N
+c 1 c c c ( C 2 C O 2 ) c c 1 > A_[H][H],O C C c 1 c c c c c 1
+F c 1 c c ( Cl ) c n c 1 F . S c 1 c c c c c 1 >,F c 1 c c ( Cl ) c n c 1 S c 1 c c c c c 1
+Br C C Br . C O C ( = O ) c 1 c c c c c 1 O >,C O C ( = O ) c 1 c c c c c 1 O C C Br
+O = C ( c 1 c c c c c 1 O ) C 1 C C N C C 1 > A_Cl,O = C ( c 1 c c c c c 1 O ) C 1 C C N ( C C C O ) C C 1
+Br . C C ( = O ) c 1 c c c ( O ) c c 1 > A_CC(=O)O,O = C ( C Br ) c 1 c c c ( O ) c c 1
+C = C C O C C 1 C O 1 . C [SiH] ( C ) C >,C [Si] ( C ) ( C ) C C C O C C 1 C O 1
+O = c 1 [nH] c n c 2 c c ( F ) c c c 1 2 > A_[Na],O = c 1 [nH] c n c 2 c c ( O C c 3 c c c c c 3 ) c c c 1 2
+C C O C ( = O ) c 1 c c c ( C # N ) c c 1 F >,N # C c 1 c c c ( C ( = O ) O ) c ( F ) c 1
+C C 1 ( C ) O C C ( = O ) C O 1 . N >,C C 1 ( C ) O C C ( N ) C O 1
+O C C = C C ( F ) ( F ) C ( F ) ( F ) F > A_CO,O C C C C ( F ) ( F ) C ( F ) ( F ) F
+C # C C C C C . C C = O > A_C1CCOC1 A_[Li]CCCC,C C C C C # C C ( C ) O
+N # C C C N . O = C ( Cl ) c 1 c c c c c 1 >,N # C C C N C ( = O ) c 1 c c c c c 1
+C C 1 N N ( C ( C ) C ) C ( = O ) C 1 = O >,C C ( C ) N 1 N C C ( = O ) C 1 = O
+C C C ( C ) C = O . C C C C C = O >,C C ( C ) C C C C C = C C = O
+Br C C 1 C C C 1 . N C C O >,O C C N C C 1 C C C 1
+C = C O C C . O C C C C C C Br > A_CCOCC,C C O C ( C ) O C C C C C C Br
+C C ( = O ) c 1 c c ( F ) c c ( F ) c 1 O . C I >,C O c 1 c ( F ) c c ( F ) c c 1 C ( C ) = O
+O = C ( O ) [C@H] 1 C [C@H] ( F ) C N 1 > A_O A_Cl,O = C ( O ) [C@H] 1 C [C@H] ( F ) C N 1
+C C O C ( = O ) N = C = S . N > A_CCO,C C O C ( = O ) N C ( N ) = S
+C # C C C C ( = O ) O > A_Cl A_CCCCO,C # C C C C ( = O ) O C C C C
+C 1 = C C C C 2 O C 2 C C C = C C C 1 > A_[Li+],O = C 1 C C C C C C C C C C C 1
+C C C C C ( C ( = O ) O ) C ( = O ) O > A_CCO,C = C ( C C C C ) C ( = O ) O
+C C C C C C C C C C C C S . [Cl-] > A_ClC(Cl)Cl,C C C C C C C C C C C C S Cl
+N O C C = C ( Cl ) Cl . O = C C Cl > A_Cl,Cl C C = N O C C = C ( Cl ) Cl
+C C ( C ) ( C ) O N . O = C C Cl > A_Cl,C C ( C ) ( C ) O N = C C Cl
+C C ( Br ) C C O c 1 c c c n c 1 . C N > A_CO,C N C ( C ) C C O c 1 c c c n c 1
+C C ( C = O ) C 1 C C C = C C C C = C C C C 1 >,C C ( C O ) C 1 C C C = C C C C = C C C C 1
+Br C C C C Br . C O C ( = O ) C 1 C C C 1 >,C O C ( = O ) C 1 ( C C C C Br ) C C C 1
+C [O-] . O C C O c 1 c c c n c 1 Br > A_[Na+] A_CO,C O c 1 n c c c c 1 O C C O
+C C N C C . S = C = S > A_CC(=O)[O-],C C N ( C C ) C ( = S ) S S C ( = S ) N ( C C ) C C
+Cl C C O c 1 c c c c c 1 . O = C 1 C C N C C 1 >,O = C 1 C C N ( C C O c 2 c c c c c 2 ) C C 1
+Cl C c 1 c c c n c 1 . O = C 1 C C N C C 1 > A_Cl,O = C 1 C C N ( C c 2 c c c n c 2 ) C C 1
+C O C C C C C N 1 C C C ( = O ) C C 1 . N O > A_Cl,C O C C C C C N 1 C C C ( = N O ) C C 1
+O = C ( O ) C C ( O ) C C C O c 1 c c c c c 1 >,O = C ( O ) C C C C C O c 1 c c c c c 1
+C O . O = C 1 N C 2 C = C C 1 C 2 >,N [C@@H] 1 C = C [C@H] ( C ( = O ) O ) C 1
+C S C C ( = O ) O . C S C C N > A_ClCCl,C S C C N C ( = O ) C S C
+C = O . O c 1 c c c c c 1 > A_O,O c 1 c c c ( C c 2 c c c c c 2 O ) c c 1
+C O . O = C ( O ) C S C c 1 c c c c c 1 >,C O C ( = O ) C S C c 1 c c c c c 1
+C C ( = O ) c 1 c c c c ( C # N ) c 1 > A_ClCCl,C [C@@H] ( O ) c 1 c c c c ( C # N ) c 1
+C N C C O . O = C ( Cl ) O C c 1 c c c c c 1 >,C N ( C C O ) C ( = O ) O C c 1 c c c c c 1
+C 1 = C C C C 2 O C 2 C C C = C C C 1 > A_[Na+],O = C 1 C C = C C C C = C C C C C 1
+N C ( C C 1 C C O C 1 ) c 1 c c c n c 1 > A_[Li+],N C ( c 1 c c c n c 1 ) C 1 C C O C C 1
+C C C C N c 1 c c c c c 1 . [NH4+] . [OH-] > A_Cl,C C C C N c 1 c c c ( N 2 C C C ( = O ) C C 2 ) c c 1
+C # C C C O . C = C O C C > A_ClCCl,C # C C C O C ( C ) O C C
+C 1 C C N C C 1 . N # C C C C Cl >,N # C C C C N 1 C C C C C 1
+C c 1 c c c c c 1 . O = C ( O ) C ( F ) ( F ) F >,C c 1 c c c c c 1 C ( = O ) O
+C = C C 1 C C C C C C C C C C C 1 = O >,C / C = C 1 \ C C C C C C C C C C C 1 = O
+C O c 1 c c c ( - c 2 c s n n 2 ) c c 1 > A_ClCCl,O c 1 c c c ( - c 2 c s n n 2 ) c c 1
+N S ( N ) ( = O ) = O . N c 1 c c c c c 1 N >,O = S 1 ( = O ) N c 2 c c c c c 2 N 1
+F C 1 2 C C C C 1 c 1 c c c c c 1 N C 2 = S . N >,N C 1 = N c 2 c c c c c 2 C 2 C C C C 1 2 F
+C = C C I . C c 1 c c ( O ) c c ( O ) c 1 >,C = C C O c 1 c c ( C ) c c ( O ) c 1
+N C ( = S ) N c 1 c c c c n 1 . O = C C Cl > A_CCO,c 1 c c c ( N c 2 n c c s 2 ) n c 1
+Cl c 1 c c c c c 1 . O = [N+] ( [O-] ) O > A_O,O = [N+] ( [O-] ) c 1 c c c c c 1 Cl
+O = C c 1 c c c ( O ) c c 1 > A_CO A_[H][H],O C c 1 c c c ( O ) c c 1
+C # C C C C N ( C ( C ) = O ) c 1 n c c c n 1 >,C C ( = O ) N 1 C C c 2 c ( C ) c c n c 2 1
+Br C c 1 c c n o 1 . C C O P ( O C C ) O C C >,C C O P ( = O ) ( C c 1 c c n o 1 ) O C C
+C O C ( = O ) Cl . N N C C O > A_ClCCl A_CCN(CC)CC,C O C ( = O ) N ( N ) C C O
+C O c 1 n c c c c 1 N . N # C [N-] C # N > A_[Na+],C O c 1 n c c c c 1 N C ( N ) = N C # N
+C C N C C . Cl C C 1 C O 1 > A_O,C C N ( C C ) C C ( O ) C Cl
+Cl O Cl . O c 1 n c n c 2 [nH] n c ( Br ) c 1 2 >,Cl c 1 n c n c 2 [nH] n c ( Br ) c 1 2
+C O c 1 c c c ( - n 2 c c c n 2 ) c c 1 > A_ClCCl,O c 1 c c c ( - n 2 c c c n 2 ) c c 1
+C C ( = O ) O C C C C C C C C Cl >,C C ( = O ) O C C C C C = C C C Cl
+C C ( = O ) O C C C C C C C C Cl >,C C ( = O ) O C C C C C = C C C Cl
+Br Br . N c 1 c c c ( C ( = O ) O ) c n 1 > A_O,N c 1 n c c ( C ( = O ) O ) c c 1 Br
+O C C C 1 C C c 2 c c c c c 2 C 1 O > A_ClCCl,O = C 1 c 2 c c c c c 2 C C C 1 C C O
+Cl C C C Br . O c 1 c c c c ( Cl ) c 1 >,Cl C C C O c 1 c c c c ( Cl ) c 1
+C [C@@H] ( C Cl ) C Br . O c 1 c c c c c 1 Cl >,C [C@@H] ( C Cl ) C O c 1 c c c c c 1 Cl
+C [C@H] ( C Cl ) C Br . O c 1 c c c ( Cl ) c c 1 >,C [C@H] ( C Cl ) C O c 1 c c c ( Cl ) c c 1
+Cl C C C Br . S c 1 c c c c ( Br ) c 1 >,Cl C C C S c 1 c c c c ( Br ) c 1
+C C C C C C C C C C C C C O > A_[Na+],C = C C C C C C C C C C C
+C I . O = C c 1 c c c ( O ) c ( Cl ) c 1 >,C O c 1 c c c ( C = O ) c c 1 Cl
+C C C ( = O ) C C ( = O ) C C . N N > A_O A_CCO,C C c 1 c c ( C C ) [nH] n 1
+C O N . O = C c 1 c c c ( F ) c c 1 Cl > A_Cl,C O N = C c 1 c c c ( F ) c c 1 Cl
+Br C C C O C c 1 c c c c c 1 . C N > A_C1CCOC1,C N C C C O C c 1 c c c c c 1
+C O c 1 c c c ( C = C C = O ) c c 1 O > A_CO,C O c 1 c c c ( C C C = O ) c c 1 O
+C O C ( = O ) c 1 n c ( F ) c n c 1 N . N > A_CO,N C ( = O ) c 1 n c ( F ) c n c 1 N
+Br c 1 c c c c n 1 . O = C c 1 c s c ( Br ) c 1 >,O = C c 1 c s c ( - c 2 c c c c n 2 ) c 1
+C # C C ( = O ) C O c 1 c c c ( F ) c c 1 >,C # C [C@H] ( O ) C O c 1 c c c ( F ) c c 1
+C N . C n 1 c c ( C = O ) c 2 c c c c c 2 1 > A_CO,C N C c 1 c n ( C ) c 2 c c c c c 1 2
+C O c 1 c c c 2 n c ( C ) s c 2 c 1 >,C c 1 n c 2 c c c ( O ) c c 2 s 1
+C 1 C O C C N 1 . Cl C C C Br > A_Cc1ccccc1,Cl C C C N 1 C C O C C 1
+C C C C C [Mg] Br . C C O C = O > A_O A_Cl,C C C C C C ( O ) C C C C C
+C 1 = C C C C 2 O C 2 C C C = C C C 1 > A_[H][H],O C 1 C C C C C C C C C C C 1
+C C O c 1 c c c n c 1 C ( = O ) O > A_C1CCOC1,C C O c 1 c c c n c 1 C O
+C O . O = C ( O ) C C C C C ( Cl ) C C Cl > A_Cl,C O C ( = O ) C C C C C ( Cl ) C C Cl
+N C ( = S ) N c 1 c c c c ( Br ) c 1 > A_ClC(Cl)Cl,N c 1 n c 2 c c ( Br ) c c c 2 s 1
+C C ( O ) C C C C ( = O ) O . C O > A_O=S(=O)(O)O,C O C ( = O ) C C C C ( C ) O
+C C O [Si] ( C C C Cl ) ( O C C ) O C C >,C O [Si] ( C C C Cl ) ( O C ) O C
+C C O C ( = O ) C C C C C O > A_ClCCl A_CCOCC,C C O C ( = O ) C C C C C = O
+C C N ( C C ) C C ( = O ) O C . N N > A_CCO,C C N ( C C ) C C ( = O ) N N
+C C ( C ) C = O . C C ( C ) C C = O . C C C = O >,C C ( C ) [C@H] ( O ) [C@H] ( C ) C = O
+I c 1 n c n 2 c c s c 1 2 . O = C c 1 c c c s 1 >,O = C ( c 1 c c c s 1 ) c 1 n c n 2 c c s c 1 2
+C O C ( C Br ) O C . N c 1 c n c c n 1 > A_CCO,c 1 c n 2 c c n c 2 c n 1
+C C C C C C C C Br . C C C C O C C O C C O C C O >,C C C C C C C C O C C O C C O C C O C C C C
+C O C 1 C C c 2 c c c c c 2 C 1 = O . O > A_ClCCl,C O C ( = O ) C = C ( c 1 c c c c c 1 ) c 1 c c c c ( O C ) c 1
+C O c 1 c c ( Cl ) c ( O ) c ( C ( C ) = O ) c 1 >,C C ( = O ) c 1 c c ( O ) c c ( Cl ) c 1 O
+N C C C 1 = C C = C ( O ) C ( O ) C 1 >,N C C c 1 c c c ( O ) c ( O ) c 1
+C S ( = O ) ( = O ) C c 1 c c c c n 1 > A_Cl A_CCO,C S ( = O ) ( = O ) C C 1 C C C C N 1
+C O c 1 c c ( Cl ) c c ( O C ) c 1 > A_O A_ClCCl,O c 1 c c ( O ) c c ( Cl ) c 1
+O = C ( O ) C 1 C C C C C 1 > A_Cc1ccccc1,O = C ( O ) c 1 c c c c c 1
+C C N = C = N C C C N ( C ) C > A_ClCCl A_Cl,C C N = C = N C C C N ( C ) C
+O c 1 c c c c 2 c 1 C C C C C 2 >,O = C 1 C C C C 2 = C 1 C C C C C 2
+C = C O C C . O C C C 1 C C C C C 1 > A_CC(=O)[O-],C = C O C C C 1 C C C C C 1
+C C ( O ) c 1 n c c s 1 . O = C ( O ) C Br > A_O,C C ( O ) C 1 S C = C N 1 C C ( = O ) O
+O C C O C C O C C O > A_CCN(CC)CC A_CS(C)=O,O C C O C C O C C O
+C [N+] ( = O ) [O-] . N C C c 1 c c o c 1 >,O = [N+] ( [O-] ) C = C C 1 C C O C 1
+C c 1 c c c c ( O ) c 1 . O = N [O-] > A_[Na+],C C 1 = C C ( = O ) C = C C 1 = N O
+O = C 1 C O c 2 c c c n c 2 N 1 > A_C1CCOC1,C 1 = N c 2 n c c c c 2 O C 1
+O C c 1 c c c c 2 [nH] c c c 1 2 > A_ClCCl,O = C c 1 c c c c 2 [nH] c c c 1 2
+C C C C = O . c 1 c n c 2 [nH] c c c 2 c 1 >,C C C C ( c 1 c [nH] c 2 n c c c c 1 2 ) c 1 c [nH] c 2 n c c c c 1 2
+C c 1 n c c c c 1 Br . O = [Se] = O > A_C1COCCO1,O = C c 1 n c c c c 1 Br
+O = C ( O ) c 1 c c c n c 1 O > A_C1CCOC1 A_CO,O C c 1 c c c n c 1 O
+C c 1 n c c ( I ) [nH] 1 . F C ( F ) C Br >,C c 1 n c ( I ) c n 1 C C ( F ) F
+C O C ( = O ) C C C C C = C ( C ) C > A_Cc1ccccc1,C C ( C ) = C C C C C C O
+C 1 C C O C 1 . O = C 1 C C 2 C C C 1 C 2 > A_O,C # C C 1 ( O ) C C 2 C C C 1 C 2
+O C c 1 c c 2 n ( n 1 ) C C S C 2 > A_ClC(Cl)Cl,O = C c 1 c c 2 n ( n 1 ) C C S C 2
+C O c 1 c c c c c 1 S . I c 1 c c c c c 1 >,C O c 1 c c c c c 1 S c 1 c c c c c 1
+C c 1 c c c c ( C ) c 1 S . I c 1 c c c c c 1 >,C c 1 c c c c ( C ) c 1 S c 1 c c c c c 1
+C C C ( C = O ) C C . S = C 1 N = C C = N 1 >,C C C ( C ) C 1 = N C ( = S ) N = C 1
+C = C C ( = O ) C C C . C [N+] ( = O ) [O-] >,C C C C ( = O ) C C C [N+] ( = O ) [O-]
+C C O C ( = O ) c 1 c c c ( N ) c c 1 . I I > A_O,C C O C ( = O ) c 1 c c c ( N ) c ( I ) c 1
+C C O C C . C c 1 c c ( Cl ) c c c 1 C # N > A_Cl,C C ( = O ) c 1 c c c ( Cl ) c c 1 C
+C C O C ( C S c 1 c c c c c 1 C ) O C C > A_O,C c 1 c c c c 2 c c s c 1 2
+N C ( N ) = S . O = C 1 C C C C C 1 Cl > A_C1CCOC1,N c 1 n c 2 c ( s 1 ) C C C C 2
+C O . O = C c 1 c ( O ) c c ( Cl ) c c 1 Cl >,C O C ( = O ) c 1 c ( O ) c c ( Cl ) c c 1 Cl
+C C C C O . O = P ( Cl ) ( Cl ) Cl > A_ClCCl,C C C C O P ( = O ) ( Cl ) Cl
+N # C c 1 c c c c ( Br ) c 1 . O > A_C1COCCO1,N C ( = O ) c 1 c c c c ( Br ) c 1
+Br c 1 c c c c n 1 . C # C C O C >,C O C C # C c 1 c c c c n 1
+C C ( C ) ( C ) O C C N . O = C c 1 c c n c c 1 >,C C ( C ) ( C ) O C C N C c 1 c c n c c 1
+C O c 1 c c c c ( F ) c 1 Br > A_ClCCl,O c 1 c c c c ( F ) c 1 Br
+C # C C O . C c 1 c c c ( O ) c c 1 >,C # C C O c 1 c c c ( C ) c c 1
+C 1 C O C C N 1 . Cl C C C Br >,Cl C C C N 1 C C O C C 1
+Br c 1 c c c c c 1 . c 1 c n [nH] c 1 > A_CC#N,c 1 c c c ( - n 2 c c c n 2 ) c c 1
+C O C ( = O ) C O C / C = C / C = O > A_[Na+] A_CO,C O C ( = O ) C O C / C = C / C O
+N # C c 1 c c c ( C O ) c c 1 F > A_C1COCCO1,N # C c 1 c c c ( C = O ) c c 1 F
+C n 1 c ( C = O ) c n c 1 C 1 C C 1 >,C C ( C ) c 1 n c c ( C = O ) n 1 C
+C = C C C C 1 C O 1 . C = C C O C C >,C C O C C = C C C C 1 C O 1
+C N . C S C O c 1 c c c c ( C = O ) c 1 > A_CCO,C N = C c 1 c c c c ( O C S C ) c 1
+C C 1 ( C ) C C C ( = N O ) C C 1 > A_Cl A_CCO,C C 1 ( C ) C C C ( N ) C C 1
+O = C 1 C C N ( C 2 C C 2 ) C C 1 > A_[Na+] A_CCO,O C 1 C C N ( C 2 C C 2 ) C C 1
+O = C c 1 c c c c c 1 F . O C C 1 C C N C C 1 >,O = C c 1 c c c c c 1 N 1 C C C ( C O ) C C 1
+Br Br . O = C c 1 c c c c ( O ) c 1 >,O = C c 1 c c ( O ) c c c 1 Br
+Br Br . O = C c 1 c c c c ( O ) c 1 > A_ClCCl,O = C c 1 c c ( O ) c c c 1 Br
+C C ( C O C ( C ) ( C ) C ) O C C C O > A_Cl,C C ( C O ) O C C C O
+C N 1 C C C ( = O ) C C 1 . N N > A_O A_CO,C N 1 C C C ( = N N ) C C 1
+C C c 1 c c c c ( Cl ) c 1 C ( = O ) O > A_[Na+],C C 1 O C ( = O ) c 2 c ( Cl ) c c c c 2 1
+N # C C Cl . N c 1 c c ( Br ) c n c 1 N > A_O,Cl C c 1 n c 2 c c ( Br ) c n c 2 [nH] 1
+C C C C C 1 C C C = C C 1 = O . C C O C C >,C C C C [C@@H] 1 C C C C ( = O ) C 1
+Cl C Cl . N c 1 c c c c c 1 S . [Cl-] >,Cl c 1 c c c c c 1 C ( Cl ) ( c 1 c c c c c 1 ) c 1 c c c c c 1
+O C c 1 c c 2 c c c c c 2 n 1 C c 1 c c c c c 1 >,O = C c 1 c c 2 c c c c c 2 n 1 C c 1 c c c c c 1
+C O C c 1 c c c ( Cl ) c c 1 > A_[Na+],O = C c 1 c c c ( Cl ) c c 1
+C c 1 c c ( Cl ) n c c 1 [N+] ( = O ) [O-] > A_CCO,C c 1 c c ( Cl ) n c c 1 N
+C 1 C C C 2 O C 2 C 1 . C 1 C C N C 1 > A_O,O [C@H] 1 C C C C [C@@H] 1 N 1 C C C C 1
+C c 1 c c c ( N ) c ( C ( N ) = O ) c 1 >,C c 1 c c c ( N ) c ( C N ) c 1
+N c 1 c c c c c 1 . O = C 1 C C C C C 1 = C O >,O = C 1 C C C c 2 c 1 [nH] c 1 c c c c c 2 1
+C C ( O ) c 1 c c ( Br ) c c c 1 F > A_ClCCl,C C ( = O ) c 1 c c ( Br ) c c c 1 F
+C C ( = O ) N c 1 c c c c 2 c c c ( C ) n c 1 2 >,C C ( = O ) N C 1 C C C c 2 c c c ( C ) n c 2 1
+N # C c 1 c c c c c 1 . N c 1 c c c ( F ) c c 1 >,N = C ( N c 1 c c c ( F ) c c 1 ) c 1 c c c c c 1
+C C O C = O . N C C C C C C O >,O = C N C C C C C C O
+C O . C O c 1 c c ( N C ( N ) = S ) c c c 1 Cl >,C O C ( = O ) c 1 n c ( N c 2 c c c ( Cl ) c ( O C ) c 2 ) s c 1 C
+C C ( N ) = O . C c 1 c c c c c 1 > A_[Na+] A_CCO,c 1 c c c 2 c ( c 1 ) C C N C 2
+F c 1 c c ( C Br ) c ( Cl ) n c 1 Cl >,Cl c 1 n c c c c 1 C Br
+F c 1 c c ( C Br ) c ( Cl ) n c 1 Cl >,Cl c 1 c c c ( C Br ) c ( Cl ) n 1
+C c 1 n c ( N ) c ( Br ) c c 1 Br > A_C1CCOC1,C c 1 n c c ( Br ) c c 1 Br
+C = C C C C C C C C C C C . O = C O . O O > A_CCO,C C C C C C C C C C C ( O ) C O
+C O . C O c 1 c c c ( C N ) c c 1 >,C O C ( = O ) C C N C c 1 c c c ( O C ) c c 1
+C N C . O = C 1 C C C C C 1 > A_O A_[H][H],C N ( C ) C 1 C C C C C 1
+N c 1 c c c c c 1 . O C C ( F ) ( F ) F > A_[Na+],O = C = N c 1 c c c c c 1
+N N . O = C c 1 c ( I ) c c n c 1 F > A_C1CCOC1,I c 1 c c n c 2 [nH] n c c 1 2
+C C ( O ) C N . C C C C C C C 1 C O 1 > A_CC#N,C C C C C C C 1 C N 2 C C ( C ) O C 2 ( C C C C ) O 1
+C N ( C ) C = O . N # C c 1 c c ( Br ) c c c 1 N >,N # C c 1 c c c ( N ) c ( C # N ) c 1
+C = O . C O C ( = O ) C c 1 c c c ( O ) c c 1 >,C O C ( = O ) C c 1 c c c ( O ) c ( C = O ) c 1
+N # C c 1 c c c c c 1 . N N . O > A_CC(=O)O,C c 1 n [nH] c ( C ) c 1 O c 1 c c c ( C # N ) c c 1
+C 1 C O C C N 1 . C C O C ( = O ) C C # N >,N # C C C ( = O ) N 1 C C O C C 1
+C O C ( = O ) c 1 c c c ( C ) n c 1 . N >,C c 1 c c c ( C ( N ) = O ) c n 1
+C C ( C ) I . N c 1 c c c c c 1 O >,C C ( C ) N c 1 c c c c c 1 O
+C = O . O = C 1 C N C C N 1 C C C O > A_O=CO,C N 1 C C N ( C C C O ) C ( = O ) C 1
+C C ( O ) c 1 c c ( Br ) c c c 1 F > A_C1COCCO1,C C ( = O ) c 1 c c ( Br ) c c c 1 F
+N N c 1 n c 2 c c c c c 2 s 1 . O > A_CC(=O)O,C C 1 = N N ( c 2 n c 3 c c c c c 3 s 2 ) C ( = O ) C 1
+C I . C c 1 c c c c ( C ) c 1 S >,C S c 1 c ( C ) c c c c 1 C
+N # C C Br . O C 1 C C C N C 1 > A_C1CCOC1,N # C C N 1 C C C C ( O ) C 1
+N # C C Br . O C 1 C C N C 1 > A_C1CCOC1,N # C C N 1 C C C ( O ) C 1
+C C O . S = C 1 N C C C C N 1 > A_CC(C)=O,C S C 1 = N C C C C N 1
+C C O C ( = O ) C 1 ( C O ) C C C 1 > A_ClCCl,C C O C ( = O ) C 1 ( C = O ) C C C 1
+N # C c 1 c c c ( F ) c c 1 Cl . O C C C C O >,N # C c 1 c c c ( O C C C C O ) c c 1 Cl
+I C C C C C C C C I . S c 1 n c [nH] n 1 > A_CCO,c 1 n c ( S C C C C C C C C S c 2 n c [nH] n 2 ) n [nH] 1
+C C C 1 C C C ( = N O ) C C 1 . C C O > A_O A_[Na],C C N C 1 C C C C C 1
+C 1 = C C C = C 1 . C C = C C ( = O ) C C C C >,C C C C C ( = O ) [C@@H] 1 [C@@H] ( C ) [C@H] 2 C = C [C@H] 1 C 2
+C C O c 1 c c ( Br ) c c c 1 N . I I > A_CC#N,C C O c 1 c c ( Br ) c c c 1 I
+Br . C O c 1 c c c ( F ) c c 1 C O > A_ClC(Cl)Cl,C O c 1 c c c ( F ) c c 1 C Br
+N # C c 1 c c c ( O ) c c 1 . N O > A_CO A_Cl,N = C ( N O ) c 1 c c c ( O ) c c 1
+C # C C Br . C 1 C C N C C 1 > A_CCOCC,C # C C N 1 C C C C C 1
+C c 1 c c n c ( C ) c 1 C O > A_CC#N,C c 1 c c n c ( C ) c 1 C = O
+C = C C N C . C [C@@H] 1 C O 1 > A_C1COCCO1,C = C C N ( C ) C [C@@H] ( C ) O
+C 1 C C O C 1 . C C c 1 c c c ( F ) n c 1 >,C C c 1 c n c ( F ) c ( C = O ) c 1
+C C ( = O ) O . c 1 c n c 2 c c [nH] c 2 c 1 > A_O,O = C c 1 c [nH] c 2 c c c n c 1 2
+C C ( C ) C Br . C O c 1 c c c ( C = O ) c c 1 O >,C O c 1 c c c ( C = O ) c c 1 O C C ( C ) C
+N C ( C c 1 c c c c c 1 O ) C ( = O ) O >,N [C@H] ( C c 1 c c c c c 1 O ) C ( = O ) O
+Br Br . C c 1 c c c c c 1 C = O > A_ClCCl A_[Cl-],C c 1 c c c ( Br ) c c 1 C = O
+C O c 1 c c c c ( C C # N ) c 1 > A_O A_ClCCl,N # C C c 1 c c c c ( O ) c 1
+C C ( = O ) O . C C C C C C C C C = O > A_O,C = C ( C = O ) C C C C C C C
+Br . O C C c 1 c c c c c 1 F > A_O A_O=S(=O)(O)O,F c 1 c c c c c 1 C C Br
+C # C c 1 c s c ( C = O ) c 1 > A_O A_[Na+] A_CO,C # C c 1 c s c ( C O ) c 1
+C = C C Br . C O C ( = O ) c 1 c c c ( O ) c c 1 >,C = C C O c 1 c c c ( C ( = O ) O C ) c c 1
+O C c 1 c c 2 c ( c n 1 ) O C C 2 > A_ClCCl,O = C c 1 c c 2 c ( c n 1 ) O C C 2
+C S c 1 n c ( Cl ) c c ( Cl ) n 1 . N N > A_ClCCl,C S c 1 n c ( Cl ) c c ( N N ) n 1
+O C c 1 c c c c 2 [nH] c c c 1 2 > A_ClCCl,O = C c 1 c c c c 2 [nH] c c c 1 2
+O O . c 1 c n c c ( C 2 C C 2 ) c 1 > A_CC(=O)O,[O-] [n+] 1 c c c c ( C 2 C C 2 ) c 1
+O C C ( O ) C O c 1 c c c c c 1 > A_[Na+] A_ClCCl,O = C C O c 1 c c c c c 1
+Br c 1 c c c c c 1 I . C O c 1 c c c ( S ) c c 1 >,C O c 1 c c c ( S c 2 c c c c c 2 Br ) c c 1
+C O . C O c 1 c c ( C ( = O ) O ) c c c 1 O > A_Cl,C O C ( = O ) c 1 c c c ( O ) c ( O C ) c 1
+C C ( = O ) N ( C ) C . O c 1 c c c c c 1 >,C C ( = O ) c 1 c c c ( O c 2 c c c c c 2 ) c c 1
+C C N C ( = N C # N ) S C . C O C C N >,C O C ( C ) N C ( = N C # N ) S C
+C O C C Br . C O c 1 c c c c ( C O ) c 1 O >,C O C C O c 1 c ( C O ) c c c c 1 O C
+Cl c 1 c c c 2 n c c c c 2 c 1 > A_CO,Cl c 1 c c c 2 c ( c 1 ) C C C N 2
+Cl c 1 n c c n c 1 Cl . N N > A_CCO,N N c 1 n c c n c 1 Cl
+C O N = C 1 C C O c 2 c c c c c 2 1 > A_N,N C 1 C C O c 2 c c c c c 2 1
+C C O C ( = O ) c 1 c [nH] c 2 c c c c c 1 2 >,c 1 c c c 2 [nH] c c c 2 c 1
+C C ( C ) c 1 c c c ( Cl ) n n 1 . N > A_O,C C ( C ) c 1 c c c ( N ) n n 1
+F c 1 c c c n c 1 Cl . N N > A_O A_CCO,N N c 1 n c c c c 1 F
+C 1 C C O C 1 . C [Si] ( C ) ( Cl ) C C C Cl >,C C ( C ) = C [SiH2] C C C Cl
+C = C C [Mg] Br . C C ( C ) ( C ) C = O > A_CCOCC,C = C C C ( O ) C ( C ) ( C ) C
+C = C C # N . N C C ( = O ) O > A_O A_Cl A_[OH-],N # C C C N C C ( = O ) O
+C O C ( = O ) C = C 1 C O C 1 . N > A_CCO,C O C ( = O ) C C 1 ( N ) C O C 1
+C C ( C ) ( O ) c 1 c c ( C O ) n o 1 > A_C1COCCO1,C C ( C ) ( O ) c 1 c c ( C = O ) n o 1
+Cl c 1 c c c c 2 [nH] c c c 1 2 > A_O=C(O)C(F)(F)F,Cl c 1 c c c c 2 c 1 C C N 2
+O = C c 1 c c c ( Cl ) c c 1 > A_O A_[K+] A_CO,O = C ( c 1 c c c ( Cl ) c c 1 ) C ( O ) c 1 c c c ( Cl ) c c 1
+C O c 1 c c ( Cl ) c c ( O C ) c 1 > A_[Na+],C O c 1 c c ( O ) c c ( Cl ) c 1
+C 1 = C O C C C 1 . O C C # C C Cl > A_O A_ClCCl,Cl C C # C C O C 1 C C C C O 1
+Br . C c 1 c c n c ( N ) c 1 > A_C1CCOC1 A_[Na+],C c 1 c c ( N ) n c c 1 Br
+C C ( = O ) C O . C C [C@H] ( N ) C O >,C C [C@@H] ( C O ) N C ( C ) C O
+C C C ( C # N ) c 1 c c c c c 1 F . N C C N >,C C C ( C 1 = N C C N 1 ) c 1 c c c c c 1 F
+C C C ( O ) c 1 c n c ( Br ) s 1 > A_ClCCl,C C C ( = O ) c 1 c n c ( Br ) s 1
+O C c 1 c c c 2 s c c c 2 c 1 > A_c1ccccc1,O = C c 1 c c c 2 s c c c 2 c 1
+C C ( O ) c 1 c c ( Br ) c c c 1 F > A_ClCCl,C C ( = O ) c 1 c c ( Br ) c c c 1 F
+O = C ( O ) C c 1 c c c c c 1 > A_CO A_CC(=O)O,O = C ( O ) C C 1 C C C C C 1
+Br Br . O c 1 c ( F ) c c c c 1 F > A_CC(=O)O,O c 1 c ( F ) c c ( Br ) c c 1 F
+C C O C ( = O ) C 1 C C 1 2 C C C C C C 2 >,O = C ( O ) C 1 C C 1 2 C C C C C C 2
+N # C C C # N . N c 1 s c c c 1 C = O > A_CCO,N # C c 1 c c 2 c c s c 2 n c 1 N
+C C O C ( = O ) C c 1 c s c ( N ) n 1 . N > A_CO,N C ( = O ) C c 1 c s c ( N ) n 1
+C C ( O ) C ( C ) O > A_CC(=O)O,C C ( = O ) O C ( C ) C ( C ) O C ( C ) = O
+C C ( = O ) N C C c 1 c c c ( Br ) c c 1 >,C C 1 = N C C c 2 c c c ( Br ) c c 2 1
+C O c 1 c c c c ( C C N C ( C ) = O ) c 1 O C >,C O c 1 c c c 2 c ( c 1 O C ) C C N = C 2 C
+Br Br . C O c 1 c c c ( C = O ) c c 1 O C > A_CO,C O c 1 c c ( Br ) c ( C = O ) c c 1 O C
+O = C 1 C C C 1 . O c 1 c c c c c 1 > A_Cl,O c 1 c c c ( C 2 ( c 3 c c c ( O ) c c 3 ) C C C 2 ) c c 1
+C c 1 c c ( C C C ( C ) C ) o n 1 > A_CCO A_[H][H],C C ( N ) = C C ( = O ) C C C ( C ) C
+C C N . C c 1 c c ( C = O ) s n 1 > A_C1CCOC1,C C N C c 1 c c ( C ) n s 1
+C C ( = O ) O . c 1 c c 2 [nH] c c c 2 c n 1 > A_O,O = C c 1 c [nH] c 2 c c n c c 1 2
+Br Br . C C S c 1 c c c c ( C ) c 1 > A_CC(=O)O,C C S c 1 c c c ( Br ) c ( C ) c 1
+N # C c 1 c ( I ) c c n c 1 F . N N > A_O A_CO,N # C c 1 c ( I ) c c n c 1 N N
+C S ( C ) = O . S c 1 c c c c c 1 Cl > A_CC#N,Cl c 1 c c c c c 1 S S c 1 c c c c c 1 Cl
+C c 1 c c ( C O ) n ( C ) n 1 . O = S ( Cl ) Cl >,C c 1 c c ( C Cl ) n ( C ) n 1
+Br Br . C C O C ( = O ) C C C ( C ) = O > A_CO,C O C ( = O ) C C C ( = O ) C Br
+C = C ( C ) C C ( C ) ( C ) C . O = [PH2] O >,C C ( C [PH] ( = O ) O ) C C ( C ) ( C ) C
+C C ( = O ) O . N N c 1 c c c ( I ) c c 1 >,C C ( = O ) N N c 1 c c c ( I ) c c 1
+N C ( = O ) c 1 c c c c ( Br ) c 1 F > A_C1CCOC1,N C c 1 c c c c ( Br ) c 1 F
+C O c 1 c c c c ( O C ) c 1 S C > A_O A_ClCCl,C S c 1 c ( O ) c c c c 1 O
+C N c 1 c c c ( F ) c c 1 N . O = C ( O ) C Cl >,C n 1 c ( C Cl ) n c 2 c c ( F ) c c c 2 1
+C C C ( C ) Br . c 1 c c c 2 [nH] c c c 2 c 1 >,C C C ( C ) n 1 c c c 2 c c c c c 2 1
+c 1 c c ( O C 2 C C C 2 ) c c n 1 > A_CCO,C 1 C C ( O C 2 C C N C C 2 ) C 1
+C O c 1 c c c ( Br ) c ( F ) c 1 C = O > A_ClCCl,O = C c 1 c ( O ) c c c ( Br ) c 1 F
+C 1 C O C C N 1 . N c 1 c c c c ( Cl ) n 1 >,N c 1 c c c c ( N 2 C C O C C 2 ) n 1
+C C # N . C C O C ( = O ) C ( C ) ( C ) C >,C C ( C ) ( C ) C ( = O ) C C # N
+C C O C ( C ) = O . N c 1 c c [nH] n 1 >,N c 1 c c ( - c 2 c c c c n 2 ) n [nH] 1
+C C c 1 c c c ( C C = C O C ) c c 1 >,C C c 1 c c c ( C C C = O ) c c 1
+C [O-] . O = C 1 C C C C O 1 > A_[Na+] A_CO,C O C ( = O ) C C C C O
+C 1 C C O C 1 . C [Si] ( C ) ( Cl ) C C C Cl >,C C ( C ) = C [SiH2] C C C Cl
+C N . N # C c 1 c c c c ( C Br ) c 1 >,C N C c 1 c c c c ( C # N ) c 1
+Br Br . O = c 1 c n [nH] c ( = O ) [nH] 1 > A_O,O = c 1 [nH] n c ( Br ) c ( = O ) [nH] 1
+C S S C . N c 1 c ( F ) c c ( F ) c c 1 Br >,C S c 1 c ( F ) c c ( F ) c c 1 Br
+C S S C . N c 1 c c ( F ) c c c 1 Br >,C S c 1 c c ( F ) c c c 1 Br
+C S c 1 n c c ( C O ) c ( Cl ) n 1 > A_ClC(Cl)Cl,C S c 1 n c c ( C = O ) c ( Cl ) n 1
+O = C c 1 c c c n c 1 Br > A_O A_[Na+] A_CO,O C c 1 c c c n c 1 Br
+C # C C ( C ) ( C ) C . C C ( C ) C C = O >,C C ( C ) C [C@H] ( O ) C = C C ( C ) ( C ) C
+C C C C C C C C C C C C C C C C C C ( = O ) O C >,C C C C C / C = C \ C / C = C \ C C C C C C C C ( = O ) O C
+C C C C C C C C C C C C N > A_[H][H] A_N,C C C C C C C C C C C C N C C C C C C C C C C C C
+C # C C O . F c 1 c c c c ( I ) c 1 >,O C C # C c 1 c c c c ( F ) c 1
+O = C ( O ) C C c 1 c c c ( Br ) c c 1 > A_C1CCOC1,O C C C c 1 c c c ( Br ) c c 1
+C C ( Br ) c 1 c c c c c 1 . N c 1 n c [nH] n 1 >,C C ( c 1 c c c c c 1 ) n 1 c n c ( N ) n 1
+O C C ( O ) C O . [OH-] > A_[K+],O = C [C@H] ( O ) [C@@H] ( O ) [C@H] ( O ) [C@H] ( O ) C O
+C C ( = O ) Cl . N c 1 c c c c ( O ) c 1 >,C C ( = O ) N c 1 c c c c ( O ) c 1
+C O c 1 c c ( Br ) c 2 c n c c c 2 c 1 > A_O,O c 1 c c ( Br ) c 2 c n c c c 2 c 1
+C O C C n 1 n c c ( C N = [N+] = [N-] ) c 1 C >,C O C C n 1 n c c ( C N ) c 1 C
+N c 1 c c 2 c c c c c 2 c n 1 > A_O=C(O)C(F)(F)F,N c 1 c c 2 c ( c n 1 ) C C C C 2
+C c 1 o c ( Br ) c c 1 C O > A_C1CCOC1,C c 1 o c ( Br ) c c 1 C = O
+C = C C N . C C C ( = O ) C C > A_[Na+] A_ClCCCl,C = C C N C ( C C ) C C
+Cl c 1 n c c n c 1 Cl . N N > A_c1ccncc1,N N c 1 n c c n c 1 Cl
+Br . C c 1 c c c c ( C ) c 1 N > A_O A_[Na+],C c 1 c c c c ( C ) c 1 Br
+C = C c 1 c c c c n 1 . S >,C C ( S ) c 1 c c c c n 1
+Cl C Cl . O = C ( n 1 c c n c 1 ) n 1 c c n c 1 >,C C ( C ) N ( C ) C ( = O ) n 1 c c n c 1
+O C C 1 C C O 1 . O c 1 c c c ( Br ) c ( F ) c 1 >,F c 1 c c ( O C C 2 C C O 2 ) c c c 1 Br
+C C C C C C C C C C C C C C C C C C C C C C C >,C = C C C C C C C C C
+C C N . Cl c 1 n c 2 c c c c ( Br ) c 2 s 1 >,C C N c 1 n c 2 c c c c ( Br ) c 2 s 1
+C 1 C C O C 1 . [Li] C C C C >,C # C C ( C ) C O C c 1 c c c c c 1
+O = C ( N C C C C O ) C 1 C c 2 c c c c c 2 C 1 >,O = C C C C N C ( = O ) C 1 C c 2 c c c c c 2 C 1
+O C c 1 c c 2 c ( c n 1 ) C C C 2 > A_ClCCl,O = C c 1 c c 2 c ( c n 1 ) C C C 2
+O = C ( O ) c 1 c ( O ) c c c c 1 Cl > A_C1CCOC1,O C c 1 c ( O ) c c c c 1 Cl
+C O c 1 c c c ( C 2 ( O ) C C C C C 2 ) c n 1 >,C O c 1 c c c ( C 2 = C C C C C 2 ) c n 1
+C O c 1 c c c c c 1 C # N . N O > A_CCO,C O c 1 c c c c c 1 C ( N ) = N O
+C O C C O . N c 1 c c ( O ) [nH] n 1 > A_c1ccccc1,C O C C O c 1 c c ( N ) n [nH] 1
+C 1 C O C C N 1 . C S C ( = N C # N ) S C > A_CCO,C S C ( = N C # N ) N 1 C C O C C 1
+C O c 1 c c c c ( C ) c 1 C ( = O ) O > A_ClCCl,C c 1 c c c c ( O ) c 1 C ( = O ) O
+C O c 1 c c c c ( C C # N ) c 1 > A_ClCCl,N # C C c 1 c c c c ( O ) c 1
+C # C C C N . O = C = N C C Cl > A_CCOCC,C # C C C N C ( = O ) N C C Cl
+O = C c 1 c c c ( Cl ) c c 1 >,O = C ( C ( = O ) c 1 c c c ( Cl ) c c 1 ) c 1 c c c ( Cl ) c c 1
+Cl . N O . O = C C 1 C C O C 1 > A_CCO,O N = C ( Cl ) C 1 C C O C 1
+C = C ( C ) C C ( C ) ( C ) C . O = [PH2] O >,C C ( C [PH] ( = O ) O ) C C ( C ) ( C ) C
+C 1 C C C 2 O C 2 C 1 . C 1 C C N C 1 > A_O,O [C@@H] 1 C C C C [C@H] 1 N 1 C C C C 1
+N [C@H] ( C C ( = O ) O ) C ( = O ) O >,N [C@@H] ( C C ( = O ) O ) C ( = O ) O
+C N C . C O . O = C c 1 n c c [nH] 1 > A_[Na+],C C ( c 1 n c c [nH] 1 ) N ( C ) C
+O = C ( O ) C C c 1 c c c ( Br ) c c 1 > A_O,O = C 1 C C c 2 c c c ( Br ) c c 2 1
+C C ( C ) C O . C C C C O C C C C . C O >,C = C ( C ) C ( = O ) O C C ( C ) C
+C C ( C ) O . O c 1 c n c c ( Br ) c 1 >,C C ( C ) O c 1 c n c c ( Br ) c 1
+O C c 1 c c c 2 c c ( Br ) c c c 2 c 1 > A_ClCCl,O = C c 1 c c c 2 c c ( Br ) c c c 2 c 1
+O c 1 c c c c 2 c n c c c 1 2 > A_CC(=O)O,O c 1 c c c c 2 c 1 C C N C 2
+C C ( C ) ( C ) O C ( = O ) C 1 C C 1 ( Cl ) Cl >,C C ( C ) ( C ) O C ( = O ) [C@@H] 1 C [C@H] 1 Cl
+C C ( = O ) c 1 c c c ( N ) c c 1 > A_[Na+] A_CO,C C ( O ) c 1 c c c ( N ) c c 1
+C O C ( = O ) c 1 [nH] c c c 1 Cl > A_O A_CO,O = C ( O ) c 1 [nH] c c c 1 Cl
+C O C ( = O ) c 1 c c c n c 1 O . N N > A_O A_CCO,N N C ( = O ) c 1 c c c [nH] c 1 = O
+N # C c 1 c n c ( N ) c n 1 . O = C C Cl > A_CCO,N # C c 1 c n 2 c c n c 2 c n 1
+C c 1 n c ( C # N ) c c c 1 Br . N N > A_O A_CCO,C c 1 n c ( C ( N ) = N N ) c c c 1 Br
+O = C 1 C C c 2 c ( Br ) c c c c 2 1 > A_ClCCl,O [C@H] 1 C C c 2 c ( Br ) c c c c 2 1
+C C ( = O ) O . O c 1 c c c c c 1 O > A_CCOCC,C C ( = O ) c 1 c c c c ( O ) c 1 O
+C O c 1 c c ( Br ) c ( Cl ) c c 1 N > A_ClCCl,N c 1 c c ( Cl ) c ( Br ) c c 1 O
+Cl c 1 n c c n c 1 Cl . N N > A_O A_CCO,N N c 1 n c c n c 1 Cl
+C c 1 n c ( C # N ) c c c 1 Br . N N > A_O A_CCO,C c 1 n c ( C ( = N ) N N ) c c c 1 Br
+Br Br . O = C 1 O C c 2 c c ( Br ) c c c 2 1 >,O = C 1 O C ( Br ) c 2 c c ( Br ) c c c 2 1
+C O C ( = O ) C S C c 1 c n c c ( Br ) c 1 . N >,N C ( = O ) C S C c 1 c n c c ( Br ) c 1
+C # C c 1 c c c ( C ) c c 1 . N >,C C ( = N ) c 1 c c c ( C ) c c 1
+Br Br . O = C c 1 c c c c ( O ) c 1 > A_CC(=O)O,O = C c 1 c c ( O ) c c c 1 Br
+C C O C ( = O ) C 1 C C C C 2 ( C 1 ) O C C O 2 >,O = C ( O ) C 1 C C C C 2 ( C 1 ) O C C O 2
+C = C C = O . C C P ( O ) O > A_O A_[Na+],C C P ( = O ) ( O ) C C C = O
+C O C c 1 c c c ( Cl ) n c 1 . N N > A_O A_CCO,C O C c 1 c c c ( N N ) n c 1
+O C C ( O ) C O . [OH-] > A_[Na+],O = C 1 O [C@H] ( [C@@H] ( O ) C O ) C ( O ) = C 1 O
+C C C C N . C O C ( = O ) C ( C ) ( C ) C O >,C C C C N C ( = O ) C ( C ) ( C ) C O
+N c 1 c ( Br ) c c c c 1 [N+] ( = O ) [O-] > A_CCO,N c 1 c c c c ( Br ) c 1 N
+O C 1 C C C ( O C c 2 c c c c c 2 ) C 1 > A_ClCCl,O = C 1 C C C ( O C c 2 c c c c c 2 ) C 1
+C # C C S C C . C C O C ( = O ) Cl >,C C O C ( = O ) C # C C S C C
+C C 1 C C O S 1 ( = O ) = O . C N C >,C C ( C C N ( C ) C ) S ( = O ) ( = O ) O
+C O c 1 c c c 2 n c ( C ) s c 2 c 1 > A_ClCCl,C c 1 n c 2 c c c ( O ) c c 2 s 1
+C 1 = C C N C C 1 . O = C ( Cl ) c 1 c c c c c 1 >,O = C ( c 1 c c c c c 1 ) N 1 C C = C C C 1
+Br c 1 c s c ( Br ) n 1 . C 1 C O C C N 1 > A_O,Br c 1 c s c ( N 2 C C O C C 2 ) n 1
+N N . O = C c 1 c ( I ) c c n c 1 F > A_O,I c 1 c c n c 2 [nH] n c c 1 2
+Br c 1 c c c c ( Br ) n 1 . O C C 1 C C 1 >,Br c 1 c c c c ( O C C 2 C C 2 ) n 1
+C O C C N . N S ( N ) ( = O ) = O > A_C1CCOC1,C O C C N S ( N ) ( = O ) = O
+O = C c 1 c c c ( Cl ) s 1 . O = [N+] ( [O-] ) O >,O = C c 1 c c ( [N+] ( = O ) [O-] ) c ( Cl ) s 1
+Br Br . O = C C C C ( F ) ( F ) F > A_C1COCCO1,O = C C ( Br ) C C ( F ) ( F ) F
+C # C C Br . C C O C ( O C C ) O C C > A_CCOCC,C # C C C ( O C C ) O C C
+C C ( = O ) c 1 c c c ( Br ) c c 1 F . N N > A_O,C c 1 n [nH] c 2 c c ( Br ) c c c 1 2
+N c 1 n n c ( Cl ) c c 1 Br . O = C C Cl > A_CCO,Cl c 1 c c ( Br ) c 2 n c c n 2 n 1
+N C ( = O ) C 1 C C 1 . O = C ( C Cl ) C Cl > A_O,Cl C c 1 c o c ( C 2 C C 2 ) n 1
+C = C C # N . C C C C O P ( [O-] ) C C > A_[Na+],C C C C O P ( = O ) ( C C ) C C C # N
+C = C O C ( C ) = O . C C P ( O ) O > A_O A_[Na+],C C P ( = O ) ( O ) C C O C ( C ) = O
+C c 1 c c c c c 1 . c 1 c c n c c 1 >,C C C C C C C C C C C C C C C C C C N
+C O c 1 c c c c ( C = N O ) c 1 F > A_CCO A_[Pd],C O c 1 c c c c ( C N ) c 1 F
+C = C C Br . O = C 1 C C C C 2 ( C 1 ) O C C O 2 >,C = C C C 1 ( O ) C C C C 2 ( C 1 ) O C C O 2
+O C c 1 c c ( Br ) c 2 c n [nH] c 2 c 1 >,O = C c 1 c c ( Br ) c 2 c n [nH] c 2 c 1
+O C c 1 c n 2 c c c c c 2 n 1 > A_O A_CCO,O = C c 1 c n 2 c c c c c 2 n 1
+Br Br . O = C C C C ( F ) ( F ) F > A_CCOCC,O = C C ( Br ) C C ( F ) ( F ) F
+Br Br . O = C 1 C C C C C ( = O ) C 1 > A_ClCCl,O = C 1 C C C C C ( = O ) C 1 Br
+F c 1 c c c c c 1 Br . O B ( O ) c 1 c c c s 1 >,F c 1 c c c c c 1 - c 1 c c c s 1
+O = C c 1 c c n c c 1 F > A_O A_[Na+] A_CCO,O C c 1 c c n c c 1 F
+Br c 1 c s c ( Br ) n 1 . O = S ( = O ) ( O ) Cl >,O = S ( = O ) ( Cl ) c 1 s c ( Br ) n c 1 Br
+C O c 1 c c c ( C O ) c ( N ) c 1 > A_ClCCl,C O c 1 c c c ( C = O ) c ( N ) c 1
+N O . O = C c 1 c c c ( F ) c c 1 > A_Cl,O N = C c 1 c c c ( F ) c c 1
+C C N C C . O = C ( Cl ) c 1 c c s c 1 > A_ClCCl,C C N ( C C ) C ( = O ) c 1 c c s c 1
+C C 1 ( C ) N C ( = O ) N C 1 = O . C I >,C N 1 C ( = O ) N C ( C ) ( C ) C 1 = O
+O C C C c 1 c c c c c 1 . [Cl-] > A_[Li+],Cl C C C c 1 c c c c c 1
+C # C C C C O . F c 1 c c c c c 1 Br > A_CC#N,O C C C C # C c 1 c c c c c 1 F
+C C O C ( = O ) c 1 n c n c ( O ) c 1 C > A_Cl,C c 1 c ( O ) n c n c 1 C ( = O ) O
+C I . O C c 1 c o c ( C Cl ) n 1 > A_ClCCl A_N#N,C O C c 1 c o c ( C Cl ) n 1
+C C ( = O ) O . C c 1 c c c ( C ) c ( O ) c 1 C >,C c 1 c c ( C = O ) c ( C ) c ( C ) c 1 O
+C 1 C N C C N 1 . C O c 1 c ( Cl ) c c n c 1 C >,C O c 1 c ( N 2 C C N C C 2 ) c c n c 1 C
+I I . O C C n 1 c c c n 1 > A_C1CCOC1 A_[Li]CCCC,O C C n 1 n c c c 1 I
+Br C C Br . N # C C c 1 c c c ( Br ) c n 1 >,N # C C 1 ( c 2 c c c ( Br ) c n 2 ) C C 1
+C = C [Mg] Br . O = C c 1 c c c c c 1 > A_C1CCOC1,C = C C ( O ) c 1 c c c c c 1
+C O c 1 c c c 2 c ( c 1 ) n c n 2 C > A_ClCCl,C n 1 c n c 2 c c ( O ) c c c 2 1
+O c 1 c c c c 2 c n c c c 1 2 > A_CC(=O)O,O c 1 c c c c 2 c 1 C C N C 2
+C N C 1 C C C C C 1 . C c 1 c ( I ) c c n c 1 F >,C c 1 c ( I ) c c n c 1 N ( C ) C 1 C C C C C 1
+C C O C ( = O ) N C C c 1 c c c c ( C ) c 1 >,C c 1 c c c 2 c ( c 1 ) C C N C 2 = O
+O = C ( O ) C C c 1 c c c c ( F ) c 1 >,O = C 1 C C c 2 c c ( F ) c c c 2 1
+C C N = C = N C C C N ( C ) C >,C C N = C = N C C C N ( C ) C
+C = C C C # C [SiH] ( C ( C ) C ) C ( C ) C >,C C ( C ) [SiH] ( C # C C 1 C C 1 ) C ( C ) C
+C C C C N . Cl c 1 c c c 2 n c c ( Br ) n 2 n 1 >,C C C C N c 1 c c c 2 n c c ( Br ) n 2 n 1
+C I . N c 1 c c c ( O ) n n 1 > A_[Na+] A_[OH-],C n 1 n c ( N ) c c c 1 = O
+C N ( C ) C c 1 c c c ( C ( = O ) O ) c c 1 > A_Cl,C N ( C ) C c 1 c c c ( C ( = O ) O ) c c 1
+N # C c 1 c c c ( C C O ) c c 1 Br > A_ClCCl,N # C c 1 c c c ( C C = O ) c c 1 Br
+C = C C # N . N N c 1 c c ( F ) c c c 1 F > A_CCO,N # C C C N N c 1 c c ( F ) c c c 1 F
+C C C C C C C C C 1 C O 1 . O = C ( O ) O >,O = C 1 O C C ( c 2 c c c c c 2 ) O 1
+C 1 = C O C C C 1 . O C C C C C C C Br > A_ClCCl,Br C C C C C C C O C 1 C C C C O 1
+C C ( N ) c 1 c c c c c 1 . Cl C C 1 C O 1 >,C C ( N C C ( O ) C N C ( C ) c 1 c c c c c 1 ) c 1 c c c c c 1
+C O C C C C # N . N O >,C O C C C / C ( N ) = N / O
+C N . N # C c 1 c c c c ( C Br ) c 1 > A_C1CCOC1,C N C c 1 c c c c ( C # N ) c 1
+O = C c 1 c c n c c 1 F > A_O A_[Na+] A_CO,O C c 1 c c n c c 1 F
+C O c 1 c c 2 n c c c c 2 c c 1 Cl . O O > A_ClCCl,C O c 1 c c 2 c ( c c c [n+] 2 [O-] ) c c 1 Cl
+C n 1 c c 2 c c c c ( C # N ) c 2 n 1 > A_CO A_N,C n 1 c c 2 c c c c ( C N ) c 2 n 1
+Cl c 1 c c c 2 n c c c c 2 c 1 > A_Cl A_CCO,Cl c 1 c c c 2 c ( c 1 ) C C C N 2
+O = C ( O ) C C c 1 c c c ( Br ) c c 1 > A_C1CCOC1,O C C C c 1 c c c ( Br ) c c 1
+N C C O . O = C c 1 c c c c c 1 > A_CO,O C C / N = C / c 1 c c c c c 1
+O = C 1 C C 2 C C 3 C C C C = C 3 C 2 N 1 >,O = C 1 C C 2 C C 3 = C ( C C C C 3 ) C 2 N 1
+O = C ( O ) C c 1 c c c c c 1 >,C C ( C ) ( C ) O C ( = O ) C c 1 c c c c c 1
+C O C C C N . O = C = N C C Cl > A_C1CCOC1,C O C C C N C ( = O ) N C C Cl
+N C ( = O ) c 1 c c c ( S ) c c 1 > A_CO A_[H][H],N C ( = O ) c 1 c c c c c 1
+N c 1 n n c ( Cl ) c c 1 Br . O = C C Cl >,Cl c 1 c c ( Br ) c 2 n c c n 2 n 1
+C O c 1 c c ( Br ) c ( F ) c c 1 O > A_ClCCl,O c 1 c c ( F ) c ( Br ) c c 1 O
+O C c 1 c s c 2 c n c n c 1 2 > A_ClCCl,O = C c 1 c s c 2 c n c n c 1 2
+Br c 1 c c c c c 1 . c 1 c n [nH] c 1 >,c 1 c c c ( - n 2 c c c n 2 ) c c 1
+C # C C N . O = S 1 ( = O ) C C C O 1 > A_C1CCOC1,C # C C N C C C S ( = O ) ( = O ) O
+C c 1 c c c ( C N ) c c 1 > A_CC#N A_[Pd],C c 1 c c c ( C N C c 2 c c c ( C ) c c 2 ) c c 1
+C = C ( C ) C C ( C O ) C O > A_ClCCl,C C 1 ( C ) C C ( C O ) C O 1
+C N . Cl C c 1 c c c c ( Cl ) c 1 > A_O A_CN(C)C=O,C N C c 1 c c c c ( Cl ) c 1
+O C C c 1 c c c c ( Cl ) c 1 > A_ClCCl,O = C C c 1 c c c c ( Cl ) c 1
+C c 1 c c ( O ) n 2 n c n c 2 n 1 > A_Cl,C c 1 c c ( O ) n 2 n c n c 2 n 1
+N . S = C = N c 1 c c c c ( Cl ) c 1 > A_C1COCCO1,N C ( = S ) N c 1 c c c c ( Cl ) c 1
+S c 1 n c 2 c c ( Cl ) c c c 2 s 1 > A_CC(=O)O,Cl c 1 c c c 2 s c n c 2 c 1
+O = S ( Cl ) Cl . c 1 c [nH] c n 1 > A_C1CCOC1,O = S ( c 1 n c c [nH] 1 ) c 1 n c c [nH] 1
+F C ( F ) ( Br ) C ( F ) ( Cl ) C C Br >,C = C C ( F ) ( Cl ) C ( F ) ( F ) Br
+C C O . C O c 1 c c c c ( F ) c 1 C = O >,C C O c 1 c c c c ( O C ) c 1 C = O
+N c 1 c c c 2 c ( c 1 ) C O C 2 . O = C O >,O = C N c 1 c c c 2 c ( c 1 ) C O C 2
+C O C ( = O ) C ( O ) C n 1 c c ( I ) c n 1 . N >,N C ( = O ) C ( O ) C n 1 c c ( I ) c n 1
+C = C C C C C . O = C 1 C = C C ( = O ) O 1 >,C = C C C C C C C C C
+C O . O = C 1 C C C C C 1 [N+] ( = O ) [O-] >,C O C ( = O ) C C C C C [N+] ( = O ) [O-]
+F c 1 c c c c ( C [C@@H] 2 C C N C 2 ) c 1 >,F c 1 c c c c ( C [C@H] 2 C C N C 2 ) c 1
+O C C 1 ( n 2 c c n c 2 ) C C 1 > A_CCOC(C)=O,O = C C 1 ( n 2 c c n c 2 ) C C 1
+C O . O = C ( O ) C 1 ( O ) C C N C C 1 > A_Cl,C O C ( = O ) C 1 ( O ) C C N C C 1
+C O C ( = O ) C C C 1 C N C C O 1 . N > A_CO,N C ( = O ) C C C 1 C N C C O 1
+C C C C = O . N C c 1 c c c c ( Cl ) c 1 >,C C C C N C c 1 c c c c ( Cl ) c 1
+Br c 1 c c c s 1 . Cl C [C@H] 1 C O 1 > A_CCOCC,O [C@@H] ( C Cl ) C c 1 c c c s 1
+C C O C ( C S c 1 c c c ( Cl ) c c 1 Br ) O C C >,Cl c 1 c c ( Br ) c 2 s c c c 2 c 1
+C = C C C C C C C . C C [SiH] ( C C ) C C >,C C C C C C = C C [Si] ( C C ) ( C C ) C C
+C C ( C ) C 1 O C C O 1 . O C C O > A_[Pd],C C ( C ) C O C ( C ) C O
+C O c 1 c c c ( F ) c 2 n c ( C ) c c c 1 2 >,C O c 1 c c c ( F ) c 2 c 1 C C [C@H] ( C ) N 2
+N C ( c 1 c c c c c 1 ) c 1 c c c ( Cl ) c c 1 >,N [C@@H] ( c 1 c c c c c 1 ) c 1 c c c ( Cl ) c c 1
+C O C ( = O ) N [C@H] ( C ( = O ) O ) C ( C ) C >,C O C ( = O ) N [C@H] ( C ( = O ) O ) C 1 C C 1
+Cl c 1 c ( C 2 C C O C C 2 ) n [nH] c 1 I >,Cl c 1 c ( C 2 C C 2 ) n [nH] c 1 I
+C C O . N c 1 c c ( Cl ) n c ( Cl ) c 1 N > A_O,Cl c 1 c c 2 n c c n c 2 c ( Cl ) n 1
+C C C ( = O ) [C@@H] 1 C C C ( = O ) O 1 > A_[Li+],C C C ( O ) [C@@H] 1 C C C ( = O ) O 1
